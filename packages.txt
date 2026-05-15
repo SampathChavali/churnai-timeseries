@@ -1,2 +1,0 @@
-# apt packages installed on Streamlit Community Cloud before pip.
-# Empty for ChurnAI — all dependencies are pure-Python / pip-installable.
