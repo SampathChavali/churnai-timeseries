@@ -1,0 +1,2001 @@
+customerID,churn,contract,internetService,tenure_months
+0001-CURLL,1,One year,Fiber optic,1
+0002-WCSFC,0,One year,No,60
+0003-NZTTS,1,Two year,Fiber optic,7
+0004-UNDVL,0,Month-to-month,DSL,14
+0005-NJEYU,0,One year,Fiber optic,55
+0006-QKVOL,1,One year,Fiber optic,6
+0007-LFCOX,1,Month-to-month,Fiber optic,14
+0008-BWVHQ,1,Month-to-month,Fiber optic,2
+0009-ETSJB,0,Month-to-month,No,59
+0010-ZLXRU,0,One year,Fiber optic,56
+0011-TFJMM,0,Month-to-month,No,32
+0012-BOETR,1,Month-to-month,Fiber optic,5
+0013-XTJZK,0,Two year,Fiber optic,37
+0014-IXJBM,1,Month-to-month,Fiber optic,12
+0015-UEMDR,0,One year,DSL,47
+0016-MIFOR,0,One year,DSL,50
+0017-YLEVQ,0,Month-to-month,Fiber optic,58
+0018-SCITV,0,One year,Fiber optic,32
+0019-LUVKX,1,Month-to-month,Fiber optic,16
+0020-HGRQD,0,Two year,Fiber optic,65
+0021-VFUAU,1,Month-to-month,No,14
+0022-UURMS,0,Month-to-month,DSL,45
+0023-HUOLN,1,Month-to-month,DSL,3
+0024-OADGC,1,Month-to-month,Fiber optic,15
+0025-LRRMW,1,Month-to-month,Fiber optic,1
+0026-OCTOQ,0,Two year,Fiber optic,52
+0027-OOCOU,0,Two year,DSL,58
+0028-HPAJL,0,Two year,Fiber optic,29
+0029-ZFHKZ,0,One year,No,54
+0030-WAGVB,0,Two year,Fiber optic,70
+0031-WHXHL,1,Month-to-month,Fiber optic,27
+0032-RDONU,1,Month-to-month,Fiber optic,3
+0033-ZRKKK,0,One year,Fiber optic,52
+0034-VIEIA,0,One year,DSL,43
+0035-CCUSS,0,Month-to-month,DSL,70
+0036-MSEXN,0,One year,No,36
+0037-YDMSM,0,One year,Fiber optic,25
+0038-LEJGH,0,Two year,Fiber optic,20
+0039-RQPJY,0,One year,DSL,62
+0040-CIDIZ,0,Two year,No,53
+0041-JXMSL,0,One year,DSL,46
+0042-GTZGU,1,One year,DSL,5
+0043-GSULT,0,Month-to-month,No,36
+0044-HCCLX,0,Two year,Fiber optic,68
+0045-DLSFS,1,Two year,Fiber optic,24
+0046-HVPOE,1,Month-to-month,Fiber optic,10
+0047-MWATM,0,Month-to-month,Fiber optic,60
+0048-SRLIQ,0,Month-to-month,No,58
+0049-DPCQQ,0,One year,Fiber optic,45
+0050-CTKUB,0,Two year,Fiber optic,26
+0051-EMEIR,0,Two year,DSL,51
+0052-DRCEP,0,Two year,Fiber optic,54
+0053-UEHYZ,1,Month-to-month,Fiber optic,5
+0054-PLJPP,0,One year,Fiber optic,13
+0055-HADYK,0,Two year,No,69
+0056-MMUBC,1,Month-to-month,DSL,5
+0057-HMRML,0,Month-to-month,Fiber optic,33
+0058-YEOOM,0,Two year,DSL,41
+0059-UGYIO,0,One year,Fiber optic,19
+0060-NWLHA,0,Two year,No,68
+0061-JVAXO,0,Two year,Fiber optic,25
+0062-DHOIC,0,Two year,DSL,34
+0063-RRDHG,0,Month-to-month,Fiber optic,37
+0064-RSSYT,1,Month-to-month,Fiber optic,22
+0065-ICPXZ,0,Month-to-month,No,50
+0066-FGADO,0,Two year,DSL,71
+0067-OJIVL,0,Month-to-month,DSL,63
+0068-VZIFY,0,Two year,Fiber optic,43
+0069-QHQNX,0,Two year,DSL,19
+0070-GZYEE,0,Month-to-month,No,63
+0071-NBHLZ,0,One year,Fiber optic,27
+0072-ZDXCT,0,One year,Fiber optic,66
+0073-VXFXD,1,Month-to-month,DSL,11
+0074-NMIAU,0,Month-to-month,Fiber optic,43
+0075-IRKJX,0,Month-to-month,No,38
+0076-CTTJG,0,One year,Fiber optic,39
+0077-AYYGA,0,One year,DSL,21
+0078-DBVXD,0,One year,DSL,45
+0079-TEJPS,0,Month-to-month,No,36
+0080-WBFHI,1,Month-to-month,Fiber optic,16
+0081-ZUIZM,0,One year,DSL,40
+0082-NLDYA,0,Month-to-month,Fiber optic,69
+0083-EFHDA,1,Month-to-month,Fiber optic,6
+0084-RZDHN,0,One year,Fiber optic,31
+0085-YSTPK,0,One year,DSL,14
+0086-FWUAS,0,Two year,No,56
+0087-CTVDL,0,One year,No,16
+0088-DOYCK,0,One year,DSL,29
+0089-ZHDMN,0,Month-to-month,Fiber optic,66
+0090-RIYNH,0,Month-to-month,DSL,48
+0091-YYMAP,0,Month-to-month,DSL,45
+0092-ODQVC,0,Two year,DSL,60
+0093-SDTKA,0,Two year,DSL,58
+0094-ZEPEY,0,Month-to-month,No,65
+0095-TULMQ,0,Month-to-month,DSL,51
+0096-UWARC,0,One year,No,38
+0097-HVGUM,0,One year,DSL,19
+0098-GINTP,0,One year,Fiber optic,34
+0099-YWTPH,0,Two year,Fiber optic,54
+0100-KDJYL,1,Month-to-month,DSL,21
+0101-CQZWH,1,Month-to-month,Fiber optic,15
+0102-LNGGG,0,Two year,DSL,20
+0103-ZTVVY,0,One year,Fiber optic,15
+0104-CWBMP,1,Two year,Fiber optic,1
+0105-JDEVI,1,Month-to-month,Fiber optic,10
+0106-IYDXX,0,Month-to-month,DSL,64
+0107-PEEHP,0,Two year,DSL,34
+0108-DLDOA,0,Two year,No,37
+0109-SBFEV,0,Two year,Fiber optic,36
+0110-BLPNR,1,Month-to-month,Fiber optic,25
+0111-UKVIZ,0,One year,DSL,67
+0112-NTWUW,0,Two year,DSL,56
+0113-NBMEX,0,Two year,No,21
+0114-GFGQO,0,One year,Fiber optic,24
+0115-YKHBA,0,Two year,DSL,16
+0116-JYNXC,1,One year,Fiber optic,12
+0117-CVCBK,1,Month-to-month,Fiber optic,23
+0118-YRCVV,0,Two year,DSL,68
+0119-UXGZI,0,One year,DSL,40
+0120-UPUQQ,0,One year,Fiber optic,16
+0121-QUTDV,0,Two year,DSL,14
+0122-NINZW,0,Two year,Fiber optic,36
+0123-VMUKR,0,Two year,Fiber optic,27
+0124-QGGBD,0,One year,DSL,46
+0125-LMEKP,0,Two year,No,19
+0126-GIJNJ,0,Month-to-month,DSL,25
+0127-TILJE,0,One year,Fiber optic,45
+0128-RGHUY,0,One year,Fiber optic,28
+0129-RXWMU,0,Two year,Fiber optic,33
+0130-ILNYW,0,Two year,Fiber optic,25
+0131-MQFUO,0,Two year,Fiber optic,15
+0132-NTQBH,1,Month-to-month,Fiber optic,27
+0133-ETAFP,0,One year,No,31
+0134-SNWXD,0,One year,No,65
+0135-YPQCQ,0,One year,DSL,65
+0136-SPCNY,0,Month-to-month,Fiber optic,37
+0137-SDYYE,1,Month-to-month,No,5
+0138-UKPLU,0,Two year,DSL,37
+0139-ZUYYC,1,Month-to-month,DSL,9
+0140-GSPBC,0,Two year,DSL,35
+0141-NQEED,0,One year,DSL,57
+0142-OAOMM,0,One year,DSL,69
+0143-RNSTX,1,Month-to-month,DSL,17
+0144-UNMGP,0,One year,DSL,19
+0145-DYVDU,0,One year,Fiber optic,19
+0146-DSCMR,0,Month-to-month,Fiber optic,64
+0147-SKXUF,0,Month-to-month,DSL,36
+0148-RSITX,0,Two year,DSL,31
+0149-VTQHU,0,One year,No,49
+0150-JNIIE,0,One year,DSL,69
+0151-YDCYO,1,Month-to-month,Fiber optic,21
+0152-LTJDS,1,Month-to-month,Fiber optic,22
+0153-EOYYJ,0,One year,Fiber optic,63
+0154-UPMDJ,0,One year,No,16
+0155-QZASW,0,One year,Fiber optic,62
+0156-YLDHW,0,Month-to-month,No,43
+0157-WQDDM,0,Two year,No,13
+0158-PAROA,0,Month-to-month,DSL,25
+0159-CLSVL,0,One year,DSL,52
+0160-HZLIL,1,Month-to-month,No,21
+0161-AHNXT,0,One year,DSL,23
+0162-UOCKZ,1,Month-to-month,Fiber optic,15
+0163-BWRHU,0,Two year,DSL,71
+0164-VBCRZ,0,One year,DSL,53
+0165-ARDQQ,0,One year,DSL,54
+0166-CRXWA,0,Month-to-month,Fiber optic,23
+0167-GGLDW,1,One year,Fiber optic,2
+0168-UVFAX,1,Month-to-month,Fiber optic,28
+0169-HRXAA,0,One year,DSL,18
+0170-AEBVP,1,Month-to-month,Fiber optic,20
+0171-ZUZGH,0,Two year,No,64
+0172-WGBRU,0,Two year,Fiber optic,71
+0173-ZYDUV,0,Two year,Fiber optic,22
+0174-SVVLB,1,Month-to-month,Fiber optic,21
+0175-LFCDS,0,Two year,DSL,42
+0176-NOTOQ,0,One year,No,47
+0177-CWLEV,0,One year,Fiber optic,42
+0178-TBFAH,1,One year,Fiber optic,5
+0179-CSNZT,1,Month-to-month,Fiber optic,5
+0180-PNBBQ,1,Two year,Fiber optic,15
+0181-ABFWL,1,One year,DSL,20
+0182-SKEJC,1,Two year,Fiber optic,20
+0183-UEJZP,0,Two year,Fiber optic,64
+0184-LOUGQ,0,One year,DSL,26
+0185-WOLDG,1,Month-to-month,DSL,6
+0186-YOHKP,0,Two year,No,52
+0187-NSGQL,0,Month-to-month,DSL,69
+0188-YEDMN,0,Month-to-month,Fiber optic,34
+0189-RKXMD,1,Month-to-month,Fiber optic,4
+0190-DZDYH,0,One year,No,14
+0191-CHPLU,1,Month-to-month,Fiber optic,9
+0192-PKQZK,0,Two year,No,60
+0193-DKVFY,0,One year,DSL,29
+0194-PPIXA,1,Month-to-month,Fiber optic,2
+0195-HKMMD,0,Month-to-month,No,53
+0196-FCOJO,0,One year,Fiber optic,52
+0197-PSOQP,0,Month-to-month,Fiber optic,43
+0198-QQIGU,1,Month-to-month,DSL,5
+0199-IOFLN,0,Month-to-month,Fiber optic,67
+0200-QNJZN,0,Month-to-month,DSL,37
+0201-VTOXD,1,Month-to-month,Fiber optic,14
+0202-XWNTN,1,Two year,Fiber optic,29
+0203-GUGIN,0,Month-to-month,DSL,44
+0204-VJMBD,0,One year,Fiber optic,17
+0205-BBWVV,0,Two year,DSL,65
+0206-BCHOI,0,Two year,DSL,52
+0207-METIB,0,Month-to-month,DSL,65
+0208-TXALV,0,Month-to-month,DSL,48
+0209-SWKJS,0,One year,Fiber optic,66
+0210-DGPRD,0,Month-to-month,No,64
+0211-NJNYB,0,Two year,Fiber optic,24
+0212-ZLULI,0,One year,No,22
+0213-URDST,0,One year,Fiber optic,21
+0214-KYQIA,1,Month-to-month,Fiber optic,10
+0215-RFTNM,0,One year,DSL,26
+0216-ESEKV,0,Month-to-month,DSL,39
+0217-XZYOF,0,Two year,No,59
+0218-VUZQD,0,Month-to-month,Fiber optic,37
+0219-NLVKI,1,Two year,DSL,9
+0220-CVTBL,0,Two year,No,33
+0221-MMXDH,0,Month-to-month,DSL,17
+0222-EGXYB,0,Month-to-month,Fiber optic,35
+0223-QGFHF,0,One year,DSL,56
+0224-MZPSM,1,Month-to-month,DSL,9
+0225-ACGGV,0,Month-to-month,DSL,52
+0226-VWQOQ,1,Month-to-month,DSL,10
+0227-KRUTP,0,One year,Fiber optic,57
+0228-BSJTO,0,Month-to-month,DSL,37
+0229-WIYVI,0,One year,No,29
+0230-MNTRW,0,Month-to-month,Fiber optic,51
+0231-JNLXH,0,Two year,DSL,20
+0232-PDWJI,0,Month-to-month,DSL,41
+0233-PMWNN,1,Month-to-month,Fiber optic,19
+0234-CAKZX,0,Two year,Fiber optic,21
+0235-QQKEA,1,Month-to-month,Fiber optic,4
+0236-IIEGA,1,One year,DSL,16
+0237-PYRLK,0,One year,No,14
+0238-HDPOA,1,Month-to-month,Fiber optic,14
+0239-KHESN,0,One year,Fiber optic,69
+0240-QSZUQ,0,Two year,DSL,52
+0241-WMZTQ,1,Month-to-month,Fiber optic,1
+0242-XNSHZ,1,Month-to-month,DSL,3
+0243-QULWB,0,One year,No,17
+0244-CNTVL,0,One year,DSL,45
+0245-QOYRK,0,Two year,No,31
+0246-ZCZEH,1,Month-to-month,DSL,3
+0247-VTZTQ,0,Two year,DSL,63
+0248-JADHB,0,Month-to-month,DSL,16
+0249-NUZMW,0,Month-to-month,DSL,21
+0250-ZWMIZ,0,Two year,DSL,69
+0251-GKBUQ,0,One year,DSL,41
+0252-CFOOU,1,Month-to-month,Fiber optic,9
+0253-GYLVG,0,Month-to-month,Fiber optic,21
+0254-ABJYB,0,One year,No,33
+0255-JCYRT,0,Two year,Fiber optic,12
+0256-SRUAW,1,Month-to-month,No,28
+0257-TTKUJ,1,One year,Fiber optic,20
+0258-BXGCQ,0,One year,DSL,17
+0259-GWLAY,0,Two year,Fiber optic,70
+0260-NGRNA,0,Month-to-month,Fiber optic,59
+0261-TKSXP,0,Two year,DSL,68
+0262-RGGKW,1,Two year,DSL,26
+0263-NJUWX,0,Month-to-month,No,29
+0264-HSPLK,0,Two year,No,28
+0265-CHOXW,1,Month-to-month,Fiber optic,15
+0266-ERCRI,0,One year,No,22
+0267-LSLUN,0,One year,No,26
+0268-ZQHUK,0,Two year,DSL,70
+0269-NDDOE,0,Two year,Fiber optic,33
+0270-ZWSTP,0,Two year,DSL,58
+0271-BKMXF,0,Two year,Fiber optic,25
+0272-MIDCJ,0,One year,DSL,67
+0273-CBJFO,0,Two year,No,53
+0274-AHLZQ,0,Two year,Fiber optic,63
+0275-WILKX,0,Month-to-month,DSL,42
+0276-YZTNO,0,Month-to-month,DSL,66
+0277-ZHJXK,0,One year,Fiber optic,33
+0278-GOIXX,0,Two year,Fiber optic,40
+0279-HNZTF,1,One year,Fiber optic,28
+0280-PQQAH,1,Month-to-month,DSL,2
+0281-WGHIE,0,Month-to-month,Fiber optic,58
+0282-EJWAH,0,One year,Fiber optic,31
+0283-BOGUP,0,One year,DSL,18
+0284-UQLWM,0,Month-to-month,Fiber optic,29
+0285-YZPRG,0,Two year,DSL,33
+0286-VRXGU,0,Month-to-month,DSL,55
+0287-MEEOI,0,Two year,Fiber optic,17
+0288-CLQIY,0,Month-to-month,No,13
+0289-UNYLD,0,Two year,DSL,55
+0290-AYYTC,0,One year,DSL,20
+0291-HBBGO,1,Two year,Fiber optic,7
+0292-BZLGN,0,Month-to-month,No,52
+0293-UIBBW,1,Month-to-month,No,23
+0294-CQJUB,0,One year,DSL,19
+0295-XSLFZ,1,Month-to-month,DSL,3
+0296-HMKFK,1,Month-to-month,Fiber optic,2
+0297-DAHCK,1,Month-to-month,Fiber optic,13
+0298-WEACN,1,Month-to-month,Fiber optic,13
+0299-HMAIK,1,Month-to-month,Fiber optic,21
+0300-LOUMV,0,Two year,DSL,53
+0301-NGFIP,1,Two year,Fiber optic,1
+0302-GXMWR,0,Two year,DSL,20
+0303-IFTIG,0,Two year,DSL,32
+0304-YMBML,0,One year,Fiber optic,20
+0305-WSEDP,1,Month-to-month,Fiber optic,9
+0306-BIDAX,0,Month-to-month,DSL,25
+0307-CAYEV,0,One year,Fiber optic,56
+0308-ADCSQ,0,One year,Fiber optic,57
+0309-MGCOF,0,Two year,DSL,61
+0310-PRWMA,0,One year,No,24
+0311-HWNQL,0,One year,No,12
+0312-EXUZW,0,Two year,DSL,14
+0313-HGGXO,0,Month-to-month,DSL,62
+0314-LZPXZ,0,Two year,DSL,66
+0315-CJTVD,0,Month-to-month,DSL,24
+0316-IOUCP,0,One year,Fiber optic,64
+0317-HFNKQ,0,Two year,No,43
+0318-IVCWA,0,Two year,No,23
+0319-TJJAS,0,Two year,DSL,30
+0320-ERSVS,1,One year,Fiber optic,22
+0321-HTVID,1,Month-to-month,Fiber optic,4
+0322-XDPGD,0,One year,Fiber optic,23
+0323-UDRSB,0,One year,DSL,22
+0324-EUNDZ,0,Month-to-month,No,55
+0325-GAYAO,1,Month-to-month,Fiber optic,11
+0326-ZPPKD,0,One year,DSL,27
+0327-OXCWK,1,Month-to-month,Fiber optic,15
+0328-NEQEH,0,Two year,Fiber optic,67
+0329-SBLPD,0,Two year,No,45
+0330-HIRZV,0,Two year,Fiber optic,61
+0331-EABPE,0,Month-to-month,DSL,62
+0332-GWWVG,0,Two year,Fiber optic,47
+0333-QPEON,0,Month-to-month,DSL,61
+0334-KTRNS,1,Month-to-month,Fiber optic,27
+0335-TOGTS,0,Two year,DSL,14
+0336-ZDKYN,0,Month-to-month,Fiber optic,65
+0337-YAAUJ,0,Month-to-month,No,20
+0338-NLKYC,0,Month-to-month,DSL,55
+0339-UXRKE,0,One year,Fiber optic,37
+0340-RMDJZ,1,Month-to-month,Fiber optic,5
+0341-GERFX,0,Month-to-month,DSL,51
+0342-WZXGF,1,Month-to-month,No,15
+0343-IMWTQ,1,Month-to-month,Fiber optic,28
+0344-WQJKN,0,Month-to-month,DSL,54
+0345-CTQTN,1,Month-to-month,Fiber optic,25
+0346-UYOLC,1,Month-to-month,Fiber optic,26
+0347-UXSWW,1,One year,No,28
+0348-UNCAF,0,Two year,DSL,69
+0349-LTLAF,0,One year,DSL,65
+0350-ZZJUS,0,Two year,DSL,46
+0351-YXQKQ,0,Month-to-month,No,32
+0352-IJPOP,0,Month-to-month,No,42
+0353-KKAPO,0,Two year,No,59
+0354-YNMBF,0,Month-to-month,DSL,37
+0355-IJJKT,0,Two year,Fiber optic,61
+0356-DIEIR,0,Two year,Fiber optic,54
+0357-BIAYS,1,Month-to-month,Fiber optic,14
+0358-GFCMT,1,Month-to-month,No,8
+0359-PWIHM,0,One year,No,62
+0360-FZEMN,0,Two year,DSL,47
+0361-BMLGD,1,One year,Fiber optic,18
+0362-BAMCY,0,One year,No,25
+0363-GQRMW,0,Two year,Fiber optic,62
+0364-CGGDH,0,Two year,DSL,13
+0365-ITHWU,0,Two year,Fiber optic,41
+0366-XCZPZ,0,Month-to-month,No,49
+0367-JYPBK,1,Month-to-month,Fiber optic,9
+0368-DYHFO,0,One year,Fiber optic,63
+0369-LCVVT,0,Month-to-month,DSL,43
+0370-QKONE,1,Month-to-month,Fiber optic,2
+0371-CGLEC,1,Month-to-month,Fiber optic,22
+0372-WJPNT,0,Month-to-month,Fiber optic,35
+0373-THWJV,0,One year,DSL,25
+0374-KCTAU,0,Month-to-month,Fiber optic,68
+0375-BFPYK,0,One year,Fiber optic,33
+0376-DGXSC,0,Month-to-month,Fiber optic,42
+0377-KGEWQ,1,One year,Fiber optic,10
+0378-EQKBL,0,Month-to-month,No,25
+0379-EGWSD,0,Two year,Fiber optic,46
+0380-WOWTI,0,Month-to-month,Fiber optic,33
+0381-NNSGI,0,One year,Fiber optic,12
+0382-GHEAY,1,Month-to-month,Fiber optic,28
+0383-BXAUI,1,Month-to-month,Fiber optic,20
+0384-NHMLN,0,One year,DSL,19
+0385-KNVLJ,0,Two year,DSL,58
+0386-DJDEY,1,Month-to-month,Fiber optic,9
+0387-CMVYD,0,One year,No,30
+0388-EJOYF,1,Month-to-month,DSL,14
+0389-EGWAJ,0,Two year,Fiber optic,30
+0390-DEXAI,1,Month-to-month,Fiber optic,1
+0391-XPBMZ,0,Month-to-month,Fiber optic,21
+0392-KNNRE,0,Two year,Fiber optic,48
+0393-VZDVV,0,One year,Fiber optic,15
+0394-TJMVD,0,Two year,Fiber optic,13
+0395-VXRIO,0,One year,DSL,27
+0396-BYIBU,0,One year,Fiber optic,22
+0397-RQBTQ,1,Month-to-month,Fiber optic,29
+0398-UVFFY,0,Two year,Fiber optic,21
+0399-NLHQT,0,Month-to-month,No,26
+0400-AOZHH,0,Two year,Fiber optic,17
+0401-WBKLU,0,Two year,Fiber optic,65
+0402-DLDUQ,1,One year,Fiber optic,19
+0403-MKDXQ,1,Month-to-month,DSL,26
+0404-IKSSL,0,Month-to-month,No,19
+0405-HRRPB,1,One year,DSL,7
+0406-MPYNI,1,Month-to-month,Fiber optic,13
+0407-OECRZ,0,Two year,DSL,65
+0408-VPBZL,1,Month-to-month,Fiber optic,15
+0409-HXTTH,0,Two year,No,33
+0410-ZLNTR,1,Two year,Fiber optic,21
+0411-EHJYS,0,One year,Fiber optic,37
+0412-JTTKK,0,Month-to-month,Fiber optic,21
+0413-XODSP,0,Two year,Fiber optic,12
+0414-NSXIK,1,Month-to-month,No,15
+0415-EQKIS,0,Month-to-month,DSL,70
+0416-KMLGD,0,Two year,No,50
+0417-VCIRD,0,One year,No,57
+0418-RTRHA,1,Month-to-month,Fiber optic,8
+0419-XIUFE,0,Month-to-month,DSL,70
+0420-UYWTG,1,Two year,Fiber optic,11
+0421-XREDW,0,One year,DSL,27
+0422-HTDHH,0,Month-to-month,No,48
+0423-HRXXT,0,One year,Fiber optic,61
+0424-FYOOS,0,Month-to-month,No,58
+0425-TYPPT,0,One year,DSL,55
+0426-GIQBI,1,Month-to-month,DSL,1
+0427-SZNKL,0,Month-to-month,Fiber optic,33
+0428-ROAOK,1,Month-to-month,Fiber optic,17
+0429-SWZPJ,0,Month-to-month,No,30
+0430-LEYWW,1,Month-to-month,DSL,21
+0431-IIWOS,1,One year,Fiber optic,9
+0432-MLQVI,1,Month-to-month,Fiber optic,17
+0433-VGKXY,0,Two year,No,33
+0434-YIVYZ,1,Month-to-month,No,21
+0435-ATZTG,0,One year,Fiber optic,69
+0436-TCMQL,0,One year,Fiber optic,34
+0437-SGPQQ,0,Two year,Fiber optic,39
+0438-HHGMP,0,Month-to-month,Fiber optic,43
+0439-JKHFR,1,Month-to-month,Fiber optic,2
+0440-VHWOE,0,One year,DSL,58
+0441-JABIL,1,Two year,Fiber optic,13
+0442-UDVGD,0,One year,DSL,34
+0443-SUPDC,0,Two year,DSL,34
+0444-KLZHF,0,Two year,Fiber optic,50
+0445-YEAKK,0,Month-to-month,No,62
+0446-QWYHZ,0,One year,DSL,16
+0447-QBYDP,1,Month-to-month,Fiber optic,25
+0448-UGHMX,0,One year,Fiber optic,40
+0449-FRLCS,0,One year,DSL,20
+0450-VOEEL,0,Month-to-month,Fiber optic,17
+0451-NOGNH,0,Two year,No,32
+0452-RUQAZ,1,Month-to-month,Fiber optic,22
+0453-AZANC,0,Two year,DSL,18
+0454-CRSDZ,0,Two year,No,29
+0455-IIHLE,0,One year,DSL,62
+0456-LFBJR,0,One year,DSL,55
+0457-TJIUR,1,Month-to-month,Fiber optic,13
+0458-VXVYK,0,One year,No,52
+0459-KIGTS,1,Month-to-month,Fiber optic,4
+0460-UEMFX,0,Two year,Fiber optic,56
+0461-GDOWX,0,One year,No,26
+0462-CIDIN,0,One year,Fiber optic,15
+0463-HBNBF,1,Month-to-month,Fiber optic,27
+0464-ACLWU,0,Two year,No,71
+0465-CAIQT,0,Month-to-month,Fiber optic,45
+0466-VIEAD,0,Month-to-month,Fiber optic,15
+0467-BWGVO,0,Month-to-month,DSL,70
+0468-OLVBC,1,Month-to-month,Fiber optic,8
+0469-LKOTP,0,Two year,Fiber optic,44
+0470-GITFN,0,Month-to-month,DSL,56
+0471-OTSMI,0,Two year,Fiber optic,23
+0472-JKFQF,0,Month-to-month,No,47
+0473-QTZDT,0,One year,Fiber optic,66
+0474-CIEEE,0,Month-to-month,DSL,38
+0475-BVBKS,0,One year,DSL,14
+0476-ZWDZQ,0,Two year,DSL,57
+0477-ELXKE,0,One year,Fiber optic,55
+0478-WYZYW,0,Month-to-month,Fiber optic,56
+0479-LEQFM,0,Two year,DSL,50
+0480-RYHGT,0,Two year,No,20
+0481-AOTOJ,0,One year,DSL,18
+0482-VJSMA,0,One year,DSL,59
+0483-NBYPJ,0,Two year,No,63
+0484-MQGHK,0,Month-to-month,Fiber optic,16
+0485-GTCVJ,0,Two year,Fiber optic,46
+0486-OEKTH,0,Month-to-month,No,42
+0487-DNEIL,0,Two year,No,33
+0488-OQRVB,0,Month-to-month,DSL,50
+0489-JAAFP,0,Month-to-month,Fiber optic,66
+0490-XUQUE,0,One year,Fiber optic,61
+0491-VXCMV,0,One year,DSL,21
+0492-MVYMB,0,Two year,No,39
+0493-IFMPM,0,Two year,Fiber optic,68
+0494-FHRAF,0,Month-to-month,No,26
+0495-XCKFC,1,One year,Fiber optic,25
+0496-KNECD,0,One year,Fiber optic,41
+0497-QWEII,0,One year,DSL,43
+0498-JGBNJ,0,One year,No,27
+0499-IGYPK,0,Two year,Fiber optic,67
+0500-FUXAY,0,Two year,DSL,43
+0501-SCTCB,0,Month-to-month,DSL,46
+0502-CLQKD,1,Month-to-month,Fiber optic,23
+0503-FWZTC,1,Two year,Fiber optic,4
+0504-VRNDZ,0,One year,Fiber optic,58
+0505-LBFKB,0,Month-to-month,Fiber optic,31
+0506-IMYCO,1,Month-to-month,DSL,27
+0507-XUYEU,0,One year,Fiber optic,58
+0508-ZIMNM,1,Two year,DSL,10
+0509-HZYJU,0,Two year,No,52
+0510-KUPMD,0,One year,No,40
+0511-RIFFZ,0,One year,DSL,59
+0512-CUWAP,1,Month-to-month,DSL,9
+0513-PJRKL,0,Two year,Fiber optic,58
+0514-LUQJY,0,Month-to-month,No,25
+0515-UYSKU,0,Month-to-month,DSL,64
+0516-IHLZO,0,One year,Fiber optic,33
+0517-JMHRJ,0,One year,No,12
+0518-OJIZI,1,Month-to-month,Fiber optic,11
+0519-BJNCH,0,Two year,Fiber optic,15
+0520-ENSZK,1,Month-to-month,Fiber optic,27
+0521-WFUOT,1,Month-to-month,No,17
+0522-TNGNV,0,One year,DSL,45
+0523-ZYEPC,0,Two year,No,54
+0524-RZBRY,0,Two year,Fiber optic,64
+0525-WKCYX,0,Two year,DSL,40
+0526-PZAQB,0,One year,No,44
+0527-YRXOC,1,One year,Fiber optic,1
+0528-AITDW,1,One year,DSL,8
+0529-GMFML,1,One year,Fiber optic,25
+0530-AOUYI,0,One year,DSL,15
+0531-WWZJW,0,Two year,Fiber optic,33
+0532-OBHRE,0,One year,DSL,20
+0533-LUDMF,0,Two year,DSL,63
+0534-NGZBZ,0,One year,No,45
+0535-UWWEY,0,One year,Fiber optic,50
+0536-PZWPJ,0,Month-to-month,DSL,53
+0537-DCKVN,0,Two year,DSL,25
+0538-MGOQZ,0,Two year,No,14
+0539-SPXLY,0,Month-to-month,DSL,35
+0540-JDKDD,1,Month-to-month,Fiber optic,7
+0541-WUFVB,1,Month-to-month,Fiber optic,21
+0542-HSHSW,0,Month-to-month,DSL,31
+0543-BAYNN,1,Month-to-month,No,7
+0544-MLRPE,1,Month-to-month,Fiber optic,25
+0545-QRCJU,0,One year,DSL,21
+0546-QDBPM,0,Month-to-month,Fiber optic,69
+0547-YNYFL,0,Two year,Fiber optic,14
+0548-DOEMI,0,Month-to-month,Fiber optic,24
+0549-ECNYF,1,Month-to-month,Fiber optic,13
+0550-KFVKZ,0,Month-to-month,Fiber optic,15
+0551-GCPQZ,0,Month-to-month,Fiber optic,65
+0552-WWQJL,0,Two year,Fiber optic,33
+0553-DLJAF,0,Month-to-month,Fiber optic,58
+0554-NJZMY,1,Two year,DSL,22
+0555-RBFSO,0,Month-to-month,Fiber optic,43
+0556-HNXKB,0,Two year,DSL,19
+0557-IYTVX,0,Two year,Fiber optic,25
+0558-DHBAV,0,Two year,Fiber optic,36
+0559-YESNB,0,Month-to-month,DSL,63
+0560-XWOSK,0,Two year,No,30
+0561-ULZBE,0,Two year,DSL,57
+0562-ZHIUE,0,Month-to-month,DSL,17
+0563-NHFZF,1,Month-to-month,DSL,7
+0564-CRWDS,0,Two year,DSL,48
+0565-OVDZQ,0,Month-to-month,Fiber optic,40
+0566-VJYQD,0,Two year,DSL,42
+0567-XUHOK,1,Month-to-month,Fiber optic,21
+0568-OZXFZ,0,Month-to-month,Fiber optic,16
+0569-LSTML,0,One year,Fiber optic,53
+0570-LWKHJ,0,One year,Fiber optic,63
+0571-FKCCS,0,One year,Fiber optic,57
+0572-COUSL,1,Month-to-month,Fiber optic,6
+0573-FYVPC,0,Month-to-month,No,33
+0574-AIEWF,1,One year,Fiber optic,26
+0575-HZVFJ,1,Month-to-month,Fiber optic,6
+0576-NRYWZ,0,Month-to-month,Fiber optic,67
+0577-BGOBJ,1,Month-to-month,Fiber optic,9
+0578-DYBDF,0,Month-to-month,DSL,38
+0579-DOJXG,1,Month-to-month,No,16
+0580-NRQUF,0,Month-to-month,DSL,25
+0581-NUWQQ,0,Two year,Fiber optic,29
+0582-WQYDJ,0,Two year,DSL,62
+0583-CCMFK,0,Two year,Fiber optic,28
+0584-LQYWJ,0,Two year,DSL,33
+0585-IUDOK,1,Month-to-month,Fiber optic,16
+0586-EQIEQ,0,Two year,DSL,21
+0587-ERELV,0,One year,DSL,51
+0588-FTSXE,0,Two year,Fiber optic,45
+0589-SYTEV,0,One year,Fiber optic,71
+0590-CPMNN,0,Two year,Fiber optic,41
+0591-ANYLH,1,Month-to-month,Fiber optic,13
+0592-ZCMNM,0,One year,DSL,63
+0593-XKZBT,0,Two year,No,71
+0594-PGFSQ,0,Month-to-month,Fiber optic,55
+0595-PBPZA,0,Month-to-month,DSL,53
+0596-MMXHM,0,Two year,Fiber optic,64
+0597-SBUVS,0,One year,Fiber optic,70
+0598-QTUXL,0,Month-to-month,Fiber optic,56
+0599-LQFWU,1,Two year,DSL,26
+0600-QHJLR,0,One year,Fiber optic,50
+0601-URYYS,0,One year,Fiber optic,26
+0602-JPLQV,1,Month-to-month,DSL,8
+0603-JNBTM,1,Month-to-month,Fiber optic,6
+0604-LNFPT,0,Two year,No,71
+0605-JDKFJ,1,Month-to-month,Fiber optic,12
+0606-QCTFX,1,Month-to-month,DSL,18
+0607-THOCC,1,Month-to-month,Fiber optic,27
+0608-YUEHF,0,Month-to-month,Fiber optic,62
+0609-KHINE,0,Month-to-month,DSL,22
+0610-WSTES,0,Two year,DSL,58
+0611-VETJU,0,Two year,DSL,27
+0612-MUDKH,0,One year,Fiber optic,46
+0613-GIJDS,1,Month-to-month,Fiber optic,4
+0614-OVSDB,1,Month-to-month,DSL,15
+0615-KMGUP,0,One year,DSL,71
+0616-TCVFL,0,Month-to-month,Fiber optic,64
+0617-LVHGI,1,Month-to-month,Fiber optic,7
+0618-JEEGM,0,One year,Fiber optic,12
+0619-IKSGX,0,One year,DSL,22
+0620-TEIEH,0,One year,Fiber optic,25
+0621-JDALS,1,One year,Fiber optic,2
+0622-HWJXG,0,Two year,Fiber optic,36
+0623-OTBYJ,1,Month-to-month,DSL,13
+0624-MQQAW,0,Two year,Fiber optic,47
+0625-QZMPL,1,Month-to-month,DSL,19
+0626-XVXNU,0,One year,DSL,45
+0627-JLTCS,1,Month-to-month,Fiber optic,16
+0628-APMMM,0,One year,No,22
+0629-MKLOT,0,Month-to-month,Fiber optic,64
+0630-OQVZC,1,Month-to-month,Fiber optic,21
+0631-SFFUB,1,Month-to-month,Fiber optic,3
+0632-WUZRW,1,Month-to-month,DSL,25
+0633-DXEID,0,One year,DSL,20
+0634-KTGVP,0,Month-to-month,Fiber optic,32
+0635-QYLIZ,0,One year,DSL,12
+0636-OPHFE,0,Month-to-month,Fiber optic,12
+0637-FFTBQ,0,One year,DSL,23
+0638-YTKBV,0,Two year,DSL,53
+0639-ARRET,1,One year,Fiber optic,6
+0640-EFVZG,1,Month-to-month,Fiber optic,13
+0641-XXUDH,0,Month-to-month,DSL,50
+0642-RZVKG,1,Month-to-month,Fiber optic,24
+0643-YHIZO,0,One year,DSL,37
+0644-GALZL,0,Month-to-month,DSL,32
+0645-SGUUP,0,Month-to-month,DSL,65
+0646-UPJTV,1,One year,DSL,7
+0647-VFRAO,0,Two year,Fiber optic,42
+0648-OJZWB,0,Month-to-month,DSL,63
+0649-FFXNS,0,One year,Fiber optic,51
+0650-VTCDK,0,One year,Fiber optic,20
+0651-ITEJG,0,Two year,DSL,23
+0652-EEFOK,1,Month-to-month,No,1
+0653-LMTWN,0,Month-to-month,No,17
+0654-QTRDZ,0,Month-to-month,DSL,53
+0655-EKQKG,1,Month-to-month,Fiber optic,12
+0656-YBGZS,0,Two year,DSL,14
+0657-CTZCK,1,Month-to-month,Fiber optic,14
+0658-MDFEE,0,Month-to-month,Fiber optic,61
+0659-KMGHE,0,One year,Fiber optic,66
+0660-UFXOU,0,Month-to-month,Fiber optic,69
+0661-QGPHD,0,Two year,DSL,67
+0662-GHDAY,1,Month-to-month,Fiber optic,12
+0663-NKYFK,0,One year,No,67
+0664-WQKGA,0,Month-to-month,No,69
+0665-CEUQL,0,One year,DSL,50
+0666-UEFKX,0,One year,Fiber optic,36
+0667-PWGWB,1,One year,Fiber optic,18
+0668-FNBWW,1,Month-to-month,Fiber optic,1
+0669-OHCQN,0,Two year,Fiber optic,21
+0670-TPDDU,0,Month-to-month,No,18
+0671-EYCSZ,0,Month-to-month,DSL,46
+0672-LBWEN,0,One year,DSL,14
+0673-ZTBVE,1,Month-to-month,Fiber optic,16
+0674-TQHLD,0,Month-to-month,DSL,26
+0675-ZGINR,0,Two year,DSL,43
+0676-NNPWK,0,Month-to-month,Fiber optic,40
+0677-VUYXU,1,Month-to-month,Fiber optic,2
+0678-GUTHR,0,Month-to-month,Fiber optic,42
+0679-GNUEI,0,Month-to-month,Fiber optic,71
+0680-ULYAS,0,Two year,Fiber optic,25
+0681-VXEZK,0,Two year,DSL,40
+0682-JJQRM,0,Month-to-month,Fiber optic,48
+0683-BZFCP,0,Two year,Fiber optic,28
+0684-KQWCH,0,Two year,No,22
+0685-NUPJP,0,Two year,DSL,14
+0686-ZMWUH,0,One year,DSL,31
+0687-GUFIG,0,Month-to-month,Fiber optic,27
+0688-PHRYV,1,Month-to-month,Fiber optic,28
+0689-YALFX,1,Month-to-month,Fiber optic,2
+0690-SIOPM,0,Two year,No,53
+0691-MBLJV,0,One year,Fiber optic,61
+0692-WTAVK,1,Month-to-month,DSL,25
+0693-KYWBJ,0,Two year,DSL,15
+0694-TOGNW,0,Two year,DSL,56
+0695-FTTXH,1,One year,Fiber optic,1
+0696-FONKU,0,Two year,Fiber optic,15
+0697-UGUFK,1,One year,Fiber optic,20
+0698-AIYLS,0,One year,DSL,37
+0699-CQJTY,0,One year,DSL,30
+0700-NCMDL,0,Two year,DSL,70
+0701-BQIFA,0,Two year,DSL,17
+0702-XVVBJ,0,One year,Fiber optic,15
+0703-ZPDDG,0,One year,DSL,47
+0704-ZEXRX,1,One year,DSL,15
+0705-VIVEH,0,Month-to-month,Fiber optic,60
+0706-FDCED,0,Month-to-month,Fiber optic,14
+0707-JBBZC,1,One year,DSL,25
+0708-BADNV,1,Month-to-month,Fiber optic,22
+0709-TPCUA,0,Month-to-month,DSL,14
+0710-QKWHQ,0,One year,DSL,39
+0711-LNYSK,1,Two year,DSL,16
+0712-LSIEM,0,Month-to-month,DSL,21
+0713-BEKUU,1,Month-to-month,Fiber optic,22
+0714-GKDTG,1,Month-to-month,Fiber optic,15
+0715-UVRIY,1,One year,Fiber optic,10
+0716-RQWWC,0,Month-to-month,DSL,67
+0717-WTFHT,0,One year,DSL,31
+0718-FLRQX,0,One year,DSL,24
+0719-CHZOG,0,One year,Fiber optic,59
+0720-HIOHQ,1,Month-to-month,Fiber optic,21
+0721-LPEQY,0,One year,No,64
+0722-DISQR,0,One year,Fiber optic,61
+0723-ORPBT,0,Month-to-month,Fiber optic,70
+0724-LBKLC,1,Month-to-month,DSL,16
+0725-ZFILV,0,Month-to-month,Fiber optic,49
+0726-TUGVV,0,One year,No,64
+0727-MOATY,0,Two year,No,19
+0728-MOMCQ,0,Month-to-month,DSL,30
+0729-SYYMY,0,One year,DSL,40
+0730-NQPZT,0,One year,DSL,49
+0731-DBKNR,0,One year,DSL,52
+0732-MNXIM,0,Two year,Fiber optic,67
+0733-OMZZN,0,One year,DSL,41
+0734-LPELF,0,Month-to-month,Fiber optic,22
+0735-DCPAQ,0,Two year,Fiber optic,23
+0736-LJUOT,0,Two year,DSL,60
+0737-SAFOZ,0,Two year,Fiber optic,39
+0738-ECYZE,0,Month-to-month,DSL,49
+0739-KQFIK,0,Month-to-month,Fiber optic,45
+0740-QIKHT,0,One year,Fiber optic,60
+0741-DFGXY,0,Month-to-month,DSL,25
+0742-NETMW,0,Month-to-month,Fiber optic,22
+0743-JZUFS,1,Month-to-month,DSL,24
+0744-HJGRG,0,Month-to-month,Fiber optic,38
+0745-QPTZA,0,Month-to-month,Fiber optic,60
+0746-ZCNIQ,0,Month-to-month,Fiber optic,19
+0747-SWKYI,0,One year,Fiber optic,28
+0748-FJNRV,0,One year,No,69
+0749-FHYLG,1,Month-to-month,Fiber optic,9
+0750-ZLZXX,1,Month-to-month,Fiber optic,22
+0751-PUYGA,0,Month-to-month,Fiber optic,61
+0752-IQOCO,0,One year,Fiber optic,15
+0753-ENOQK,0,One year,Fiber optic,19
+0754-KRTVI,0,One year,No,65
+0755-LINDL,0,Two year,DSL,19
+0756-ENWZL,0,One year,DSL,30
+0757-BFCTZ,0,One year,DSL,20
+0758-OEAZI,1,Month-to-month,Fiber optic,16
+0759-CEGRX,0,Month-to-month,DSL,15
+0760-HRBAB,0,Two year,DSL,29
+0761-YPUAA,0,One year,Fiber optic,31
+0762-WCENP,0,One year,DSL,50
+0763-FLRLJ,0,Two year,DSL,41
+0764-BLUQX,0,One year,Fiber optic,23
+0765-DAOEP,1,Month-to-month,Fiber optic,24
+0766-XIORD,0,Month-to-month,Fiber optic,39
+0767-XFVRD,0,Two year,Fiber optic,33
+0768-SFPYY,0,One year,No,44
+0769-WMOHX,0,Month-to-month,Fiber optic,31
+0770-MUJTF,0,Two year,DSL,32
+0771-TBCJM,0,One year,DSL,59
+0772-SJAIL,0,One year,No,27
+0773-OQGPQ,0,Month-to-month,Fiber optic,31
+0774-UNVFS,1,Month-to-month,No,19
+0775-BCWMQ,0,Month-to-month,Fiber optic,53
+0776-PSGEB,1,Month-to-month,Fiber optic,18
+0777-WFOLE,0,One year,Fiber optic,52
+0778-KCEDV,0,Month-to-month,Fiber optic,22
+0779-OYLFP,1,Month-to-month,Fiber optic,28
+0780-YNAHY,1,Month-to-month,Fiber optic,6
+0781-NYNAW,0,One year,Fiber optic,57
+0782-TSZFX,1,Month-to-month,Fiber optic,20
+0783-GZEOU,0,Two year,No,36
+0784-CBWBP,0,One year,DSL,39
+0785-YPMKQ,1,Month-to-month,Fiber optic,18
+0786-ONDRT,0,Two year,DSL,54
+0787-SBSSE,1,Month-to-month,Fiber optic,13
+0788-WNMSN,0,Two year,Fiber optic,37
+0789-OIYZD,1,Two year,Fiber optic,20
+0790-TAJZE,0,Two year,No,64
+0791-JFSMP,0,One year,No,43
+0792-YNTCF,0,Month-to-month,No,52
+0793-YWRJF,0,Month-to-month,DSL,66
+0794-WUGPQ,0,Two year,Fiber optic,62
+0795-MYDGC,0,One year,Fiber optic,28
+0796-SQZOD,0,Month-to-month,Fiber optic,54
+0797-LCRRW,0,Month-to-month,Fiber optic,38
+0798-IIBKM,0,One year,Fiber optic,20
+0799-TTDHN,0,Two year,DSL,34
+0800-IAVTN,0,Two year,Fiber optic,70
+0801-IVALU,0,One year,DSL,69
+0802-YGQED,0,Month-to-month,DSL,59
+0803-JXRMH,1,Month-to-month,Fiber optic,28
+0804-DHDER,0,One year,DSL,46
+0805-DBOHL,0,Two year,Fiber optic,57
+0806-DFLRK,0,Two year,Fiber optic,21
+0807-ONGHL,0,One year,DSL,29
+0808-ARPHJ,0,One year,Fiber optic,22
+0809-IQTCK,0,One year,No,68
+0810-ALGIL,1,Month-to-month,Fiber optic,7
+0811-IKTVA,0,One year,No,67
+0812-JWNFP,0,Two year,No,36
+0813-DAQNT,1,Month-to-month,Fiber optic,3
+0814-IWKTC,0,Two year,No,52
+0815-CUVYI,0,One year,No,46
+0816-AZPGT,1,Month-to-month,DSL,20
+0817-XHUUN,1,Month-to-month,Fiber optic,29
+0818-QHYZZ,0,One year,Fiber optic,42
+0819-TBJLY,0,One year,Fiber optic,16
+0820-ONDUI,0,One year,No,23
+0821-CZEAC,0,Two year,DSL,14
+0822-LCVNI,0,Month-to-month,Fiber optic,21
+0823-AMDZH,0,Two year,Fiber optic,23
+0824-MADFB,0,Two year,Fiber optic,16
+0825-SYZGU,1,Two year,Fiber optic,5
+0826-NBCOL,0,One year,No,61
+0827-AYSNZ,0,Month-to-month,Fiber optic,22
+0828-ZZGWN,0,One year,No,45
+0829-SWELD,1,One year,Fiber optic,10
+0830-HKWWK,0,Two year,No,68
+0831-INXZF,0,One year,DSL,26
+0832-ESHFA,0,Month-to-month,Fiber optic,56
+0833-KKOFS,0,Two year,DSL,50
+0834-RMENR,0,Two year,Fiber optic,58
+0835-JGNJK,0,One year,DSL,49
+0836-JHSLM,0,Two year,DSL,42
+0837-QJCWB,1,Month-to-month,DSL,28
+0838-OGFBX,1,Month-to-month,Fiber optic,1
+0839-LITBO,0,Month-to-month,DSL,34
+0840-MODYG,0,Month-to-month,Fiber optic,68
+0841-RTIDH,0,Two year,DSL,71
+0842-UXYFP,1,Month-to-month,No,5
+0843-DSKSR,0,Month-to-month,DSL,67
+0844-ZMINE,0,One year,Fiber optic,18
+0845-CNVNU,0,One year,Fiber optic,44
+0846-ELPJA,1,Month-to-month,DSL,13
+0847-BYPGG,0,Month-to-month,No,67
+0848-BYCTG,0,Two year,Fiber optic,19
+0849-IHVAJ,0,Month-to-month,Fiber optic,60
+0850-HHFXJ,1,Month-to-month,No,18
+0851-KKZII,0,Month-to-month,DSL,33
+0852-IICPA,0,Two year,DSL,53
+0853-FFHTP,1,One year,Fiber optic,14
+0854-ZJYBN,1,Month-to-month,Fiber optic,4
+0855-UNYIA,0,Month-to-month,Fiber optic,67
+0856-UBTTV,0,Two year,DSL,21
+0857-MXELD,0,One year,No,27
+0858-TSUTI,1,Month-to-month,Fiber optic,13
+0859-BYMCY,0,Month-to-month,DSL,54
+0860-ZLUAC,0,Month-to-month,DSL,65
+0861-HRDAR,1,Month-to-month,Fiber optic,9
+0862-UTUUP,0,Two year,DSL,19
+0863-NWJCT,1,Month-to-month,DSL,24
+0864-HZKWB,0,Two year,Fiber optic,14
+0865-RLMGZ,0,Two year,DSL,41
+0866-KWLBW,1,Month-to-month,Fiber optic,9
+0867-EHWXX,1,Month-to-month,Fiber optic,6
+0868-LTITN,1,Month-to-month,DSL,15
+0869-BKMGJ,0,One year,Fiber optic,27
+0870-NBDTJ,0,One year,Fiber optic,42
+0871-POOKM,1,Month-to-month,Fiber optic,16
+0872-VZGRZ,0,Month-to-month,No,44
+0873-AUMZP,1,Month-to-month,Fiber optic,7
+0874-VEDYN,0,One year,Fiber optic,32
+0875-OEFVH,0,One year,DSL,37
+0876-PIGEY,1,Month-to-month,Fiber optic,27
+0877-YCJOJ,0,Month-to-month,No,29
+0878-SGBIP,0,Two year,Fiber optic,57
+0879-EVABN,0,One year,DSL,64
+0880-NHGBR,0,One year,Fiber optic,62
+0881-JDKYG,0,Month-to-month,Fiber optic,31
+0882-XGEGI,0,One year,No,31
+0883-DPISM,1,Month-to-month,Fiber optic,16
+0884-LMESC,0,One year,DSL,28
+0885-SZTLI,0,Two year,Fiber optic,47
+0886-WGMUX,0,Two year,DSL,28
+0887-XCXCP,0,Month-to-month,DSL,56
+0888-YRYII,0,Two year,Fiber optic,15
+0889-IJRLT,0,One year,Fiber optic,36
+0890-KIEOX,0,Two year,DSL,28
+0891-WGMSP,0,Month-to-month,Fiber optic,41
+0892-BPBDQ,1,Two year,Fiber optic,2
+0893-CIPRL,0,One year,Fiber optic,37
+0894-CUYXT,0,Month-to-month,DSL,59
+0895-KWMDW,1,Two year,DSL,27
+0896-IYJWN,1,Month-to-month,DSL,3
+0897-MHVBM,0,Month-to-month,DSL,37
+0898-JOGRK,0,One year,DSL,53
+0899-EFSGH,0,Two year,DSL,39
+0900-QIKGI,0,Two year,DSL,44
+0901-SNZUA,0,One year,DSL,32
+0902-JHPGZ,0,Month-to-month,No,62
+0903-HNDXX,0,Month-to-month,Fiber optic,49
+0904-UJBSL,0,Two year,DSL,69
+0905-ZSOZU,1,Month-to-month,Fiber optic,10
+0906-LACLO,0,One year,DSL,34
+0907-ADSTA,0,Two year,Fiber optic,31
+0908-NCSVW,0,Month-to-month,No,17
+0909-PQYPL,0,Two year,Fiber optic,49
+0910-TPVNW,0,Month-to-month,DSL,56
+0911-BACOS,1,Month-to-month,Fiber optic,17
+0912-FEWTQ,1,Month-to-month,Fiber optic,23
+0913-MKAEX,1,Month-to-month,Fiber optic,25
+0914-ISSIF,1,Month-to-month,Fiber optic,16
+0915-RCMXS,1,Month-to-month,Fiber optic,12
+0916-TCFHH,1,Month-to-month,Fiber optic,6
+0917-FZESP,0,Two year,Fiber optic,15
+0918-PFHPH,0,Two year,DSL,65
+0919-SBBSQ,0,Two year,No,52
+0920-BXAYS,0,One year,Fiber optic,12
+0921-ZYITF,0,One year,Fiber optic,18
+0922-MGMWL,1,Month-to-month,Fiber optic,29
+0923-CIUNO,0,Month-to-month,DSL,52
+0924-LHPQX,0,Two year,DSL,37
+0925-QZVCK,0,One year,Fiber optic,64
+0926-KAETJ,0,One year,Fiber optic,51
+0927-DHHEC,0,Month-to-month,Fiber optic,48
+0928-TVMQX,1,Month-to-month,No,21
+0929-VAYBA,0,Two year,DSL,52
+0930-KTCHG,0,Month-to-month,DSL,64
+0931-KZIFD,0,Two year,Fiber optic,14
+0932-FDOKM,0,One year,DSL,56
+0933-VPEJI,0,Two year,DSL,64
+0934-VHDTL,1,One year,Fiber optic,12
+0935-CRFWV,1,Month-to-month,Fiber optic,28
+0936-JOOQB,0,Month-to-month,No,33
+0937-IESBN,1,Month-to-month,No,10
+0938-SYHAS,0,Two year,DSL,60
+0939-ABZWS,1,Month-to-month,DSL,20
+0940-VBCHA,0,Month-to-month,No,57
+0941-XBOWT,0,Two year,DSL,30
+0942-GMOTL,1,Month-to-month,Fiber optic,7
+0943-HUXMA,0,One year,DSL,53
+0944-NXZKD,0,Two year,Fiber optic,32
+0945-OVYBH,0,One year,Fiber optic,60
+0946-MCXCR,0,Two year,Fiber optic,14
+0947-XRTGV,0,One year,DSL,12
+0948-KBJJN,1,One year,Fiber optic,25
+0949-GMLIS,1,Two year,Fiber optic,8
+0950-HTGWJ,0,Two year,DSL,15
+0951-BDUWF,0,Month-to-month,DSL,34
+0952-PODLS,0,Two year,Fiber optic,13
+0953-ZWCGL,0,Month-to-month,DSL,57
+0954-DOACB,0,Two year,No,21
+0955-HTEZH,1,Month-to-month,Fiber optic,13
+0956-BITCB,1,Month-to-month,Fiber optic,13
+0957-WPITV,1,Month-to-month,Fiber optic,22
+0958-JOAHP,0,Month-to-month,Fiber optic,59
+0959-FZZGK,0,One year,DSL,58
+0960-ENDKO,0,Two year,Fiber optic,62
+0961-PPFUR,0,Month-to-month,DSL,45
+0962-TMXKU,0,Month-to-month,DSL,49
+0963-FGNOT,0,One year,Fiber optic,40
+0964-HWINY,0,Month-to-month,Fiber optic,49
+0965-ORXZM,1,Month-to-month,DSL,12
+0966-KFNXM,0,Month-to-month,DSL,19
+0967-JCKGZ,1,Month-to-month,Fiber optic,25
+0968-NDBWY,0,One year,DSL,53
+0969-TDCFT,0,Month-to-month,No,54
+0970-TVCDX,0,One year,Fiber optic,28
+0971-YSCBB,0,One year,No,58
+0972-RVQGT,0,Month-to-month,DSL,43
+0973-BVXSW,0,One year,No,16
+0974-PMIXS,1,Two year,No,4
+0975-EYBPE,0,One year,DSL,71
+0976-RKLRT,0,One year,DSL,64
+0977-JZMEA,0,One year,DSL,40
+0978-FROIM,0,Month-to-month,No,25
+0979-VOBBM,0,Two year,Fiber optic,12
+0980-KWPTP,0,Two year,Fiber optic,56
+0981-IRQSE,1,Month-to-month,No,29
+0982-QHUUQ,1,Month-to-month,No,8
+0983-YNAPU,1,Month-to-month,Fiber optic,21
+0984-CCHVN,0,Month-to-month,No,13
+0985-ZWORI,0,One year,Fiber optic,58
+0986-CKPEF,1,Month-to-month,Fiber optic,28
+0987-ATXVJ,0,One year,DSL,70
+0988-PYPHI,0,Month-to-month,No,22
+0989-SLVWA,0,Two year,DSL,36
+0990-SJNGJ,1,Month-to-month,DSL,27
+0991-IBUDJ,0,Month-to-month,No,62
+0992-FEJXY,1,One year,Fiber optic,26
+0993-JNZGY,1,Month-to-month,No,10
+0994-CFIAV,0,One year,DSL,12
+0995-WJVUU,1,Month-to-month,Fiber optic,7
+0996-UOCYP,0,Month-to-month,No,71
+0997-XYEKF,0,Month-to-month,No,28
+0998-BZYYW,0,One year,Fiber optic,44
+0999-QNZOQ,1,Two year,Fiber optic,18
+1000-FTVRM,0,One year,Fiber optic,35
+1001-FAQRU,0,Month-to-month,No,58
+1002-YMVSH,0,Two year,DSL,43
+1003-VBPYR,0,Two year,Fiber optic,54
+1004-YBNUQ,0,Month-to-month,DSL,43
+1005-WMRKW,0,Month-to-month,DSL,71
+1006-DGCSG,0,One year,Fiber optic,40
+1007-IVJDA,1,Month-to-month,Fiber optic,23
+1008-FXOZF,0,Two year,Fiber optic,48
+1009-JEKOV,0,Two year,Fiber optic,60
+1010-JUQHX,0,One year,DSL,65
+1011-LDZXB,0,Month-to-month,Fiber optic,25
+1012-XYVGQ,0,One year,Fiber optic,30
+1013-NQQQN,0,Month-to-month,No,30
+1014-RNAAY,1,Month-to-month,Fiber optic,17
+1015-XPEUD,0,Month-to-month,No,41
+1016-JIAUN,0,Month-to-month,No,12
+1017-INALN,0,One year,Fiber optic,65
+1018-IVGDN,1,Month-to-month,DSL,1
+1019-XJBZL,0,One year,Fiber optic,48
+1020-EQIYH,0,One year,No,30
+1021-OOGMC,1,Month-to-month,No,2
+1022-QTYIH,1,Month-to-month,No,16
+1023-OSZAG,1,Month-to-month,Fiber optic,13
+1024-GGMWA,0,One year,Fiber optic,71
+1025-VQPRD,0,One year,Fiber optic,67
+1026-TGNRP,0,One year,Fiber optic,47
+1027-IKMBS,1,Month-to-month,Fiber optic,3
+1028-CLRCZ,0,One year,No,19
+1029-JAROQ,0,One year,DSL,69
+1030-TMVJO,0,Month-to-month,DSL,27
+1031-EQGSU,0,Month-to-month,DSL,52
+1032-WYDDY,0,Two year,No,33
+1033-JAHVJ,0,Month-to-month,DSL,41
+1034-BSFJA,1,Month-to-month,DSL,2
+1035-PLWIF,0,One year,Fiber optic,47
+1036-EFLCK,0,Month-to-month,DSL,37
+1037-WTQXU,0,Two year,No,36
+1038-QWDVH,0,Month-to-month,Fiber optic,25
+1039-TXMCJ,0,Two year,DSL,45
+1040-KYYOY,0,Two year,DSL,46
+1041-LKVRN,0,Month-to-month,DSL,17
+1042-LSTMA,0,Month-to-month,DSL,36
+1043-CDMPU,0,One year,DSL,50
+1044-GURBJ,0,One year,Fiber optic,15
+1045-HXXVN,0,Month-to-month,DSL,70
+1046-MIUCH,0,Two year,DSL,63
+1047-DMHFJ,0,Month-to-month,DSL,50
+1048-WOVXX,1,Month-to-month,Fiber optic,14
+1049-JWXYJ,1,One year,Fiber optic,9
+1050-FPYXO,0,Two year,DSL,65
+1051-DKSOI,0,Month-to-month,DSL,13
+1052-IBHRG,0,One year,Fiber optic,59
+1053-ZCPMV,0,One year,No,62
+1054-XOQSN,0,Month-to-month,Fiber optic,16
+1055-ELGMP,0,Two year,No,25
+1056-FGVJF,0,Month-to-month,No,55
+1057-SSVTZ,1,Month-to-month,Fiber optic,4
+1058-OHWGH,0,One year,No,58
+1059-VWISX,0,One year,DSL,43
+1060-UAREW,0,Month-to-month,No,48
+1061-BZEKG,1,Month-to-month,DSL,4
+1062-VKTBL,0,Month-to-month,No,46
+1063-XYFKK,0,One year,Fiber optic,58
+1064-ONCTF,0,Month-to-month,Fiber optic,14
+1065-IVRKX,0,Two year,DSL,24
+1066-KOGEM,1,Month-to-month,Fiber optic,10
+1067-OUKXP,0,One year,DSL,59
+1068-BTOKM,0,One year,Fiber optic,55
+1069-HPOLH,0,Month-to-month,Fiber optic,15
+1070-KMMIP,0,One year,DSL,18
+1071-FNDMU,1,Month-to-month,Fiber optic,28
+1072-VSTBI,0,One year,DSL,26
+1073-RUPWH,0,One year,Fiber optic,43
+1074-DCPRH,1,Month-to-month,Fiber optic,21
+1075-UTJGT,1,One year,Fiber optic,7
+1076-REGMN,0,Month-to-month,DSL,21
+1077-EYKJB,0,One year,No,50
+1078-WGZMW,0,Month-to-month,Fiber optic,59
+1079-EEUVO,0,One year,DSL,50
+1080-AYKYW,0,Two year,DSL,60
+1081-WRRNA,0,Month-to-month,Fiber optic,66
+1082-KSVOS,1,Month-to-month,Fiber optic,27
+1083-AMNXI,1,Month-to-month,Fiber optic,8
+1084-FJEOQ,1,One year,Fiber optic,14
+1085-UZBGH,1,Month-to-month,Fiber optic,24
+1086-GVDAW,1,Month-to-month,Fiber optic,5
+1087-YFINN,1,Month-to-month,Fiber optic,27
+1088-ZKAKO,1,Month-to-month,Fiber optic,23
+1089-NNXUG,0,Two year,Fiber optic,50
+1090-JRKLE,0,Month-to-month,Fiber optic,33
+1091-GTVUI,0,One year,Fiber optic,59
+1092-DEKNX,0,Two year,Fiber optic,53
+1093-XASHF,0,One year,DSL,59
+1094-OAIOH,0,One year,DSL,47
+1095-PLUEB,0,Two year,DSL,50
+1096-NGSCO,0,One year,Fiber optic,32
+1097-ZCHVN,0,Two year,Fiber optic,35
+1098-EFTWJ,1,Month-to-month,Fiber optic,17
+1099-MUEFU,1,Month-to-month,Fiber optic,16
+1100-EUMZA,0,Two year,No,51
+1101-YFASN,0,One year,DSL,35
+1102-VCCOW,0,Month-to-month,Fiber optic,20
+1103-KUXWN,1,Two year,Fiber optic,6
+1104-SNRON,1,Month-to-month,DSL,7
+1105-LQTXP,0,Two year,Fiber optic,38
+1106-CPIAB,1,Month-to-month,DSL,27
+1107-PYNLC,0,Month-to-month,DSL,66
+1108-RBVVZ,0,Month-to-month,Fiber optic,18
+1109-HEHUF,1,Month-to-month,Fiber optic,5
+1110-XEBFT,0,Two year,DSL,54
+1111-PJRQO,0,Month-to-month,No,50
+1112-NCGND,0,One year,DSL,37
+1113-MDUCC,0,Two year,Fiber optic,54
+1114-QFJIF,1,Month-to-month,Fiber optic,12
+1115-TRGRS,1,Month-to-month,Fiber optic,17
+1116-OPYLK,0,Two year,No,69
+1117-OVSBL,0,One year,DSL,28
+1118-TFZVW,1,Month-to-month,Fiber optic,24
+1119-CPNQW,0,Month-to-month,Fiber optic,67
+1120-JNRTU,1,Month-to-month,Fiber optic,25
+1121-IZAMP,0,One year,Fiber optic,29
+1122-BLPPD,0,One year,No,62
+1123-HGQIO,1,Month-to-month,No,28
+1124-TUEXE,0,One year,DSL,44
+1125-ABFWF,0,One year,No,18
+1126-SKBLA,0,Month-to-month,No,38
+1127-MONHT,0,One year,DSL,37
+1128-PGLCY,0,Month-to-month,Fiber optic,23
+1129-THRRP,0,Two year,DSL,36
+1130-BWYZZ,1,Two year,Fiber optic,19
+1131-YTBMG,1,Month-to-month,Fiber optic,8
+1132-FVVNT,0,Month-to-month,Fiber optic,37
+1133-DFWLO,0,Month-to-month,Fiber optic,55
+1134-MFVTR,0,One year,Fiber optic,39
+1135-JQYQM,1,Month-to-month,Fiber optic,21
+1136-HNJPB,0,One year,Fiber optic,55
+1137-EUJLO,0,Month-to-month,Fiber optic,21
+1138-LTGTF,0,Month-to-month,Fiber optic,38
+1139-JPXGP,0,Month-to-month,DSL,56
+1140-BBTSJ,0,Two year,DSL,47
+1141-QJHLI,0,One year,Fiber optic,25
+1142-VKINT,1,Month-to-month,Fiber optic,17
+1143-HYMRY,1,Two year,Fiber optic,15
+1144-LFTAL,1,Month-to-month,DSL,15
+1145-ZKRNF,0,One year,DSL,54
+1146-INCKK,0,Two year,Fiber optic,31
+1147-VDVKQ,1,Month-to-month,Fiber optic,12
+1148-OHYFA,1,Month-to-month,Fiber optic,12
+1149-TQXLA,0,Two year,DSL,43
+1150-ALGXD,1,Month-to-month,Fiber optic,24
+1151-WFDHD,0,Two year,DSL,61
+1152-KINNA,1,Month-to-month,Fiber optic,20
+1153-DEFCI,0,One year,Fiber optic,53
+1154-OIIMO,0,Month-to-month,No,32
+1155-IFKAM,0,Month-to-month,Fiber optic,66
+1156-YKCSD,0,Month-to-month,No,25
+1157-FDWZO,0,One year,Fiber optic,14
+1158-QQPOZ,0,One year,DSL,51
+1159-TCKZK,0,One year,DSL,45
+1160-FWQOK,1,Month-to-month,DSL,3
+1161-DJLYH,0,Two year,DSL,27
+1162-DLZMJ,0,Two year,No,41
+1163-RQHZP,1,Month-to-month,Fiber optic,26
+1164-BKXKO,0,One year,Fiber optic,57
+1165-PSWDN,0,One year,Fiber optic,71
+1166-NDRDL,1,Month-to-month,Fiber optic,15
+1167-IEVGG,1,Month-to-month,Fiber optic,23
+1168-WWAHS,0,Two year,DSL,34
+1169-UZOAW,1,Month-to-month,Fiber optic,6
+1170-EDRPB,0,One year,DSL,63
+1171-EPGRK,0,Two year,DSL,21
+1172-PMJIS,0,One year,Fiber optic,70
+1173-NPPFX,0,Two year,DSL,48
+1174-OSWYR,1,Two year,Fiber optic,18
+1175-UMTIS,0,Month-to-month,No,46
+1176-CXGRA,1,Month-to-month,DSL,29
+1177-EZVFD,0,Month-to-month,Fiber optic,71
+1178-VZERH,0,Month-to-month,Fiber optic,18
+1179-TKDIO,0,One year,Fiber optic,60
+1180-UAYQW,0,One year,DSL,24
+1181-YDCUE,1,Two year,Fiber optic,18
+1182-DMXUN,0,One year,DSL,37
+1183-FIREN,0,Month-to-month,Fiber optic,26
+1184-AIGRX,0,Two year,No,26
+1185-DURZX,0,Month-to-month,Fiber optic,31
+1186-CTPCG,1,Month-to-month,Fiber optic,18
+1187-YOIIV,0,Month-to-month,Fiber optic,58
+1188-HEOZE,1,One year,Fiber optic,13
+1189-GMFQG,0,Two year,Fiber optic,49
+1190-DGYYN,0,One year,Fiber optic,37
+1191-KVFRR,0,One year,Fiber optic,66
+1192-SFSPW,0,Two year,DSL,28
+1193-EPVHT,1,Month-to-month,Fiber optic,25
+1194-CSPFB,1,Month-to-month,Fiber optic,7
+1195-TGMBZ,1,Month-to-month,Fiber optic,9
+1196-OYEFP,0,Two year,DSL,40
+1197-PUYVD,0,One year,Fiber optic,56
+1198-IXOWO,0,One year,DSL,54
+1199-BMVRD,0,Two year,DSL,58
+1200-FWZTC,0,One year,Fiber optic,17
+1201-QVQPM,0,Month-to-month,DSL,21
+1202-GHTBC,0,Month-to-month,No,62
+1203-KURPN,1,One year,DSL,13
+1204-CICTT,0,One year,DSL,19
+1205-GHIXM,0,Month-to-month,DSL,66
+1206-TLSNH,0,Month-to-month,No,27
+1207-WSUYG,0,Month-to-month,Fiber optic,70
+1208-CPILG,0,Two year,Fiber optic,71
+1209-KKJTP,0,Month-to-month,DSL,50
+1210-MCOEI,0,Month-to-month,Fiber optic,23
+1211-KDKGW,1,Month-to-month,Fiber optic,20
+1212-WAPQJ,1,Month-to-month,Fiber optic,4
+1213-MUJBJ,0,Two year,DSL,32
+1214-GJFDZ,0,Two year,DSL,50
+1215-DSSQX,0,One year,DSL,16
+1216-AHEPQ,0,One year,Fiber optic,35
+1217-XJGYR,0,One year,No,59
+1218-TLLKT,0,Month-to-month,No,17
+1219-FZELI,0,Month-to-month,Fiber optic,34
+1220-QRXUG,0,Month-to-month,DSL,12
+1221-FXMCV,0,Month-to-month,No,51
+1222-QAUPP,0,One year,DSL,16
+1223-WMLQF,1,Month-to-month,Fiber optic,24
+1224-DVFNH,0,Month-to-month,Fiber optic,43
+1225-FPULD,0,One year,DSL,24
+1226-GEWIJ,1,One year,DSL,26
+1227-BLXKQ,0,Month-to-month,No,62
+1228-EDTBL,0,Month-to-month,Fiber optic,58
+1229-IANZB,1,Month-to-month,DSL,15
+1230-VOSCW,0,Month-to-month,DSL,63
+1231-AXRIA,0,Two year,DSL,40
+1232-PCPUG,0,Two year,Fiber optic,20
+1233-GFFCG,0,One year,Fiber optic,66
+1234-RHUVT,0,One year,No,32
+1235-OIYFM,0,Two year,DSL,31
+1236-LTOUX,0,One year,DSL,20
+1237-KWEXE,0,Month-to-month,DSL,65
+1238-WKZDM,0,Month-to-month,Fiber optic,29
+1239-XBGCI,0,One year,Fiber optic,47
+1240-KQGEE,0,One year,No,26
+1241-YYFFB,1,One year,Fiber optic,27
+1242-YSTHQ,0,Month-to-month,Fiber optic,59
+1243-BRPIS,0,One year,DSL,42
+1244-QLEAY,0,Month-to-month,DSL,32
+1245-HHRGJ,0,One year,DSL,51
+1246-SPRAL,0,Two year,Fiber optic,41
+1247-MQDET,0,One year,Fiber optic,68
+1248-RVHZH,0,Month-to-month,DSL,52
+1249-QEXIU,1,One year,Fiber optic,29
+1250-IULBE,1,Month-to-month,Fiber optic,15
+1251-RFHOG,0,One year,DSL,23
+1252-DQRTY,0,Month-to-month,DSL,30
+1253-DLGXO,0,Month-to-month,Fiber optic,38
+1254-CRBHS,0,Two year,Fiber optic,24
+1255-NTOVO,0,Two year,No,68
+1256-BBUBJ,1,One year,DSL,2
+1257-AHPEM,1,Month-to-month,Fiber optic,10
+1258-ZBBHV,1,Month-to-month,No,25
+1259-KQATB,0,One year,DSL,34
+1260-SDWHE,1,Month-to-month,DSL,18
+1261-IAEPH,0,Two year,No,47
+1262-JUDKE,0,One year,DSL,52
+1263-MIBBW,0,Month-to-month,Fiber optic,13
+1264-BUXMI,1,Month-to-month,DSL,9
+1265-UZDZY,0,One year,DSL,24
+1266-DBSCP,1,Month-to-month,DSL,29
+1267-BRGCB,0,One year,Fiber optic,58
+1268-EOBUP,1,Month-to-month,Fiber optic,19
+1269-HZRRE,0,Two year,No,13
+1270-SOZMR,0,One year,No,41
+1271-IBDWT,1,Two year,Fiber optic,13
+1272-JSAAN,0,Two year,Fiber optic,42
+1273-QYTGV,0,Two year,No,21
+1274-MVEAB,0,Two year,Fiber optic,58
+1275-ZCYSD,0,One year,Fiber optic,34
+1276-WDDOH,0,Two year,DSL,54
+1277-HFPAG,0,One year,No,24
+1278-OMSFQ,0,Two year,DSL,66
+1279-TKGOP,1,Month-to-month,Fiber optic,27
+1280-COEOY,0,Two year,No,70
+1281-NTIXV,0,Two year,No,34
+1282-XTQNY,0,One year,No,55
+1283-WKCAG,0,Two year,Fiber optic,42
+1284-BFCZC,0,One year,DSL,16
+1285-QJESZ,1,Month-to-month,No,26
+1286-UZPRD,1,Month-to-month,No,23
+1287-WTGJP,0,Two year,No,23
+1288-AVHBI,0,One year,Fiber optic,48
+1289-VHOVA,0,One year,Fiber optic,20
+1290-THSED,0,One year,DSL,47
+1291-UVZRM,0,One year,Fiber optic,24
+1292-FHQIM,0,One year,No,22
+1293-ELGCD,0,Two year,Fiber optic,34
+1294-NJCNE,0,Two year,DSL,46
+1295-ADLYG,0,Two year,DSL,35
+1296-HGJSI,0,One year,DSL,32
+1297-RXYOS,0,Two year,DSL,32
+1298-XUHDC,0,Month-to-month,No,32
+1299-WOHIH,0,Month-to-month,Fiber optic,36
+1300-UPWHM,0,Month-to-month,DSL,62
+1301-DZNOK,0,One year,Fiber optic,46
+1302-HYMRA,0,One year,DSL,37
+1303-HUCCV,1,Month-to-month,Fiber optic,10
+1304-IHOFB,0,One year,Fiber optic,43
+1305-ACESH,1,Month-to-month,Fiber optic,7
+1306-BAMVI,1,Month-to-month,Fiber optic,24
+1307-BFMEZ,0,Two year,No,24
+1308-TIYID,0,Month-to-month,No,45
+1309-YYIPE,0,Month-to-month,DSL,58
+1310-QRSOS,1,Month-to-month,Fiber optic,10
+1311-OVEMK,0,One year,DSL,24
+1312-NDIYC,1,Two year,Fiber optic,8
+1313-QRMAA,0,One year,DSL,65
+1314-HCCEE,0,One year,Fiber optic,32
+1315-VQAQD,0,One year,DSL,42
+1316-KACDL,0,One year,No,51
+1317-MJQSS,0,Month-to-month,No,51
+1318-POMGM,0,Two year,DSL,20
+1319-AZJTY,1,Month-to-month,Fiber optic,5
+1320-MWMDA,1,Month-to-month,Fiber optic,14
+1321-DYMIL,0,Month-to-month,Fiber optic,65
+1322-GWZCS,0,One year,DSL,58
+1323-IBXBF,0,Two year,DSL,13
+1324-AMPIB,1,One year,No,21
+1325-DYUYN,0,Month-to-month,Fiber optic,15
+1326-OUQLH,1,One year,Fiber optic,29
+1327-MBFTW,0,One year,Fiber optic,63
+1328-CCCUI,0,Two year,DSL,35
+1329-IAZLU,0,One year,DSL,22
+1330-SDUOP,0,One year,Fiber optic,55
+1331-FWYKC,1,Two year,Fiber optic,28
+1332-WXNPF,0,Two year,DSL,51
+1333-BYMHS,0,Month-to-month,DSL,60
+1334-ACGLJ,1,Month-to-month,Fiber optic,9
+1335-EJINO,1,Month-to-month,Fiber optic,26
+1336-WUHXN,1,Month-to-month,No,1
+1337-EITVJ,0,Two year,Fiber optic,31
+1338-EECSN,0,Two year,Fiber optic,39
+1339-LRVUD,1,Month-to-month,DSL,19
+1340-PWUIK,0,Month-to-month,DSL,52
+1341-XANDX,0,One year,DSL,40
+1342-BAIFM,1,One year,Fiber optic,6
+1343-HJOOY,0,Two year,No,21
+1344-MORER,0,One year,DSL,50
+1345-WIEJH,1,Month-to-month,Fiber optic,26
+1346-PWPDI,0,Month-to-month,Fiber optic,40
+1347-RIPSI,0,Two year,DSL,36
+1348-QKDJL,0,Two year,No,58
+1349-AXNAW,0,Two year,Fiber optic,40
+1350-WAEJN,0,Month-to-month,DSL,12
+1351-SLPAR,1,Month-to-month,DSL,6
+1352-XNLHY,1,Month-to-month,DSL,17
+1353-AHDWM,0,Two year,DSL,34
+1354-XRONF,0,Two year,Fiber optic,29
+1355-ORZOY,1,Month-to-month,Fiber optic,1
+1356-YNLDG,0,Two year,DSL,68
+1357-WDKSG,0,One year,No,27
+1358-ZQAGT,0,One year,Fiber optic,42
+1359-WYWBS,0,One year,Fiber optic,61
+1360-CBRMQ,0,Two year,DSL,33
+1361-WBNVL,0,One year,DSL,68
+1362-NMXBW,0,Month-to-month,Fiber optic,36
+1363-VVKNJ,0,Month-to-month,Fiber optic,68
+1364-GWNSC,0,Two year,Fiber optic,39
+1365-URZDO,0,Two year,Fiber optic,12
+1366-NNBMH,0,Two year,DSL,64
+1367-QGLQB,0,One year,Fiber optic,63
+1368-USBBW,0,Two year,No,69
+1369-HWMIH,0,Two year,Fiber optic,19
+1370-RCKIE,0,One year,Fiber optic,62
+1371-JNRCW,0,Month-to-month,No,32
+1372-WRYLV,1,Month-to-month,Fiber optic,16
+1373-SOEOX,0,Month-to-month,Fiber optic,69
+1374-ZLGTB,1,Month-to-month,Fiber optic,25
+1375-DOZIL,1,Month-to-month,Fiber optic,21
+1376-ILAPP,0,Two year,DSL,28
+1377-IGTEB,0,Month-to-month,No,30
+1378-BWJCW,1,One year,No,14
+1379-DIARS,0,Month-to-month,DSL,36
+1380-TGIYV,0,Two year,DSL,51
+1381-ARVOQ,0,Month-to-month,Fiber optic,52
+1382-AAAEZ,0,Two year,Fiber optic,24
+1383-QUHYF,0,Two year,Fiber optic,14
+1384-XAACU,1,Month-to-month,DSL,15
+1385-GLMUJ,1,Month-to-month,DSL,1
+1386-AKHTT,0,Two year,Fiber optic,23
+1387-CUBQK,0,Month-to-month,No,48
+1388-HMIUZ,0,Month-to-month,No,27
+1389-VLNLU,1,Month-to-month,DSL,3
+1390-OMKJO,0,Two year,DSL,30
+1391-RLUVL,1,Month-to-month,Fiber optic,18
+1392-XEYHO,1,Month-to-month,DSL,4
+1393-HLISC,0,Two year,Fiber optic,71
+1394-VXOOS,0,One year,DSL,55
+1395-FTFRH,1,Month-to-month,Fiber optic,1
+1396-TUFQM,0,One year,Fiber optic,43
+1397-HPZAY,0,One year,Fiber optic,36
+1398-WNPJD,1,Month-to-month,Fiber optic,26
+1399-OVGST,0,Two year,Fiber optic,30
+1400-TIKKW,0,Month-to-month,Fiber optic,60
+1401-XKZOK,0,Two year,Fiber optic,71
+1402-APQZS,0,Month-to-month,Fiber optic,35
+1403-AOTML,1,Month-to-month,Fiber optic,23
+1404-VPRMH,0,Month-to-month,Fiber optic,58
+1405-NYPSD,0,One year,Fiber optic,59
+1406-ZGZLX,0,Two year,Fiber optic,24
+1407-XTXPW,1,Month-to-month,No,10
+1408-EBOVT,0,Month-to-month,DSL,42
+1409-NNPWV,1,Month-to-month,Fiber optic,22
+1410-CPJUN,0,Two year,Fiber optic,19
+1411-ZLRCY,1,Month-to-month,Fiber optic,1
+1412-DJVZM,1,Month-to-month,Fiber optic,17
+1413-MBZAA,1,Month-to-month,DSL,17
+1414-MAEQS,1,Month-to-month,Fiber optic,29
+1415-HUPFS,0,Two year,No,47
+1416-PVEGH,1,Month-to-month,Fiber optic,16
+1417-IXTOO,0,Month-to-month,Fiber optic,33
+1418-XLFDI,0,Two year,Fiber optic,39
+1419-QMKMZ,1,Month-to-month,Fiber optic,14
+1420-ZECGW,1,One year,DSL,20
+1421-LWQOH,0,One year,DSL,17
+1422-IDNHH,0,One year,DSL,48
+1423-BUYMN,0,Two year,Fiber optic,66
+1424-YNQLN,0,Month-to-month,DSL,15
+1425-NSPNB,0,Two year,Fiber optic,71
+1426-XXEHZ,0,One year,Fiber optic,17
+1427-IVUWA,0,Two year,DSL,49
+1428-MOVFH,0,Two year,Fiber optic,33
+1429-ETZDG,1,One year,Fiber optic,10
+1430-HXLHI,0,One year,No,62
+1431-PKDVK,1,Month-to-month,Fiber optic,21
+1432-GSTEB,0,One year,DSL,64
+1433-BTQUQ,0,Two year,Fiber optic,60
+1434-KPSKX,0,One year,Fiber optic,30
+1435-XUZKC,0,Two year,Fiber optic,39
+1436-MTUKH,1,Month-to-month,Fiber optic,23
+1437-LUBIF,0,Two year,DSL,22
+1438-UMCGB,0,Month-to-month,Fiber optic,46
+1439-MZOWT,1,Month-to-month,Fiber optic,12
+1440-WIYGL,1,Month-to-month,No,17
+1441-RHGDA,0,Month-to-month,Fiber optic,14
+1442-NZFLY,0,Two year,No,17
+1443-UANDG,0,Two year,Fiber optic,13
+1444-GPFGF,0,Two year,DSL,44
+1445-JRKIN,0,Two year,Fiber optic,45
+1446-PAXXP,0,Month-to-month,DSL,47
+1447-OSLJJ,1,Month-to-month,Fiber optic,26
+1448-EVIHZ,0,One year,Fiber optic,30
+1449-NQGHS,0,One year,DSL,37
+1450-LDVKR,0,One year,DSL,14
+1451-IOUXF,1,Month-to-month,Fiber optic,20
+1452-RXQDE,0,One year,DSL,15
+1453-FCTZN,1,Month-to-month,Fiber optic,1
+1454-PUKMP,1,Month-to-month,Fiber optic,21
+1455-HBOVB,0,Two year,Fiber optic,71
+1456-FGUNN,0,One year,DSL,53
+1457-QHSAC,0,Month-to-month,DSL,40
+1458-VRELB,0,One year,DSL,54
+1459-RTHJG,1,Month-to-month,DSL,4
+1460-KHGLW,0,Month-to-month,No,22
+1461-THYFX,1,Month-to-month,Fiber optic,14
+1462-IOFTI,0,Month-to-month,DSL,63
+1463-WCNEX,0,Month-to-month,DSL,61
+1464-KRWNB,0,Two year,DSL,34
+1465-FFXXM,0,Month-to-month,No,29
+1466-XGRKG,0,Two year,DSL,69
+1467-GKIFI,0,Two year,DSL,45
+1468-DZJCO,0,Month-to-month,Fiber optic,19
+1469-WJVPT,0,One year,Fiber optic,25
+1470-HAIYU,0,Month-to-month,DSL,62
+1471-UWJIY,1,Month-to-month,DSL,14
+1472-OHHWB,0,Month-to-month,DSL,66
+1473-BTAEZ,0,Two year,DSL,12
+1474-LSMCE,0,Month-to-month,DSL,61
+1475-TCPJJ,0,Two year,DSL,18
+1476-YPPJJ,0,Month-to-month,No,60
+1477-RBGPQ,0,Month-to-month,Fiber optic,64
+1478-CUOGT,1,One year,Fiber optic,21
+1479-ZLHHP,0,One year,DSL,23
+1480-BMABL,0,Two year,Fiber optic,54
+1481-TWCGK,0,Month-to-month,No,16
+1482-OZRNB,0,Month-to-month,DSL,46
+1483-CDRIG,0,One year,No,31
+1484-RVLWT,0,One year,Fiber optic,37
+1485-SWETY,0,Two year,Fiber optic,61
+1486-ZPTXW,0,Two year,DSL,71
+1487-XVJSK,1,Month-to-month,Fiber optic,15
+1488-UVYPM,0,Month-to-month,Fiber optic,29
+1489-EQONR,1,Month-to-month,DSL,25
+1490-WDLSV,0,Two year,No,36
+1491-UUWZP,0,One year,DSL,23
+1492-GOSCT,1,Month-to-month,No,15
+1493-OYFXL,0,Month-to-month,No,71
+1494-ORPXE,1,Month-to-month,DSL,15
+1495-SZFGM,0,Two year,DSL,21
+1496-SYUUL,0,Month-to-month,DSL,21
+1497-QFMEA,1,Month-to-month,Fiber optic,23
+1498-WUNAC,0,One year,DSL,30
+1499-CSFGW,0,Month-to-month,No,49
+1500-WTIPF,0,Month-to-month,DSL,57
+1501-WCTNT,0,Month-to-month,Fiber optic,12
+1502-LETQM,1,Month-to-month,Fiber optic,10
+1503-JIMGH,0,Month-to-month,Fiber optic,13
+1504-HAYGE,0,One year,DSL,18
+1505-DZMIK,1,Month-to-month,Fiber optic,29
+1506-CIGUB,0,One year,Fiber optic,49
+1507-LUVNF,0,Month-to-month,Fiber optic,70
+1508-IFRHQ,0,One year,DSL,46
+1509-RYJYK,0,Two year,Fiber optic,37
+1510-RRVMU,1,Month-to-month,Fiber optic,19
+1511-JMMSQ,0,Month-to-month,Fiber optic,57
+1512-CVTCZ,0,One year,Fiber optic,52
+1513-RCMVH,0,One year,DSL,34
+1514-YKFJN,1,Two year,Fiber optic,25
+1515-RYFYN,1,One year,Fiber optic,21
+1516-DYJQS,0,Two year,No,32
+1517-AFRIA,0,Month-to-month,No,28
+1518-AVDCO,1,Month-to-month,Fiber optic,27
+1519-DQOQM,0,Month-to-month,DSL,24
+1520-UQKAH,0,One year,DSL,46
+1521-DAHFB,0,One year,No,55
+1522-INEHA,0,Month-to-month,Fiber optic,37
+1523-BELRU,1,Month-to-month,Fiber optic,29
+1524-QQYGU,1,Month-to-month,DSL,20
+1525-YOVDW,0,Month-to-month,DSL,40
+1526-OFBSL,0,Two year,Fiber optic,16
+1527-IKZLC,0,One year,Fiber optic,66
+1528-HDRUV,0,Month-to-month,DSL,20
+1529-QTKQC,0,Two year,No,21
+1530-NOAOS,0,Two year,DSL,68
+1531-JOHHD,0,One year,Fiber optic,43
+1532-IUYQQ,0,Two year,Fiber optic,16
+1533-PMKQU,0,One year,No,38
+1534-KOMHH,0,One year,Fiber optic,47
+1535-CLSRZ,0,Two year,No,12
+1536-BTULH,0,Two year,DSL,57
+1537-JRWQN,1,Month-to-month,Fiber optic,17
+1538-QBPBY,1,Month-to-month,Fiber optic,24
+1539-XNJTQ,1,Month-to-month,DSL,5
+1540-SNGBH,0,Month-to-month,DSL,25
+1541-NLNHY,1,One year,No,7
+1542-JWKLP,0,One year,No,34
+1543-GFJUD,0,One year,Fiber optic,24
+1544-LRSLC,0,One year,Fiber optic,42
+1545-AMVAX,0,One year,Fiber optic,38
+1546-RAIFY,0,Month-to-month,DSL,32
+1547-OIHOA,0,Two year,Fiber optic,64
+1548-GEQRM,1,Two year,DSL,17
+1549-DJVFE,0,Two year,Fiber optic,41
+1550-CVDPZ,0,One year,DSL,25
+1551-QKFAE,0,Month-to-month,No,46
+1552-YDAVK,0,Month-to-month,DSL,13
+1553-JSNXM,0,One year,Fiber optic,65
+1554-SWMHZ,0,Month-to-month,DSL,12
+1555-FBPZC,0,Two year,DSL,53
+1556-WVYKG,1,One year,No,14
+1557-NDVRM,1,Month-to-month,Fiber optic,12
+1558-NSNVY,0,One year,Fiber optic,33
+1559-YQTIA,0,Two year,Fiber optic,13
+1560-KWDOF,1,Month-to-month,Fiber optic,15
+1561-LDTVT,1,Month-to-month,No,25
+1562-SGNCJ,0,One year,DSL,14
+1563-NRCVL,1,One year,DSL,23
+1564-WNOSV,1,Month-to-month,Fiber optic,19
+1565-ENAMV,1,Two year,Fiber optic,18
+1566-WHKOK,0,Month-to-month,Fiber optic,46
+1567-EHKNX,0,Two year,DSL,12
+1568-OKRUL,0,Month-to-month,No,53
+1569-MFWWE,0,Month-to-month,DSL,37
+1570-IHXBF,0,Two year,Fiber optic,50
+1571-IOGNT,0,Month-to-month,DSL,33
+1572-VCDCX,0,Month-to-month,Fiber optic,12
+1573-QNUPG,0,One year,Fiber optic,13
+1574-NSAPM,1,Month-to-month,Fiber optic,22
+1575-BGLIH,0,One year,DSL,50
+1576-QKMUC,0,Month-to-month,Fiber optic,31
+1577-JBYEV,1,One year,No,3
+1578-EIPVE,1,Month-to-month,DSL,1
+1579-FWIFT,1,Month-to-month,DSL,25
+1580-CWWWH,1,Month-to-month,Fiber optic,6
+1581-CLIYQ,1,Month-to-month,Fiber optic,1
+1582-YTSCB,0,One year,DSL,54
+1583-BPFZD,0,One year,DSL,71
+1584-YRCBK,0,Two year,No,49
+1585-IINDD,0,Two year,No,69
+1586-SZHYI,1,One year,Fiber optic,16
+1587-ICLMR,0,One year,DSL,62
+1588-EELBD,0,Month-to-month,Fiber optic,22
+1589-QYODZ,0,One year,Fiber optic,15
+1590-NSFPB,0,One year,DSL,52
+1591-QFXBQ,0,One year,Fiber optic,70
+1592-DRMZQ,0,Two year,DSL,56
+1593-JCPLB,1,One year,Fiber optic,23
+1594-PFGAJ,0,Month-to-month,Fiber optic,41
+1595-FBLFD,1,Month-to-month,Fiber optic,6
+1596-MBZMZ,0,One year,Fiber optic,32
+1597-WZOLS,0,Two year,DSL,52
+1598-CVIAG,0,One year,DSL,21
+1599-GARCW,1,Two year,Fiber optic,12
+1600-LSIDE,0,One year,Fiber optic,29
+1601-QSGJY,1,Month-to-month,No,2
+1602-WKGHN,0,Month-to-month,DSL,57
+1603-OEBMU,0,Two year,Fiber optic,65
+1604-DKEGP,1,Month-to-month,Fiber optic,8
+1605-HGZEE,0,One year,DSL,61
+1606-YOBLO,0,One year,No,54
+1607-GOQGV,1,Month-to-month,Fiber optic,5
+1608-LZCIS,0,One year,Fiber optic,56
+1609-XFZFK,0,One year,No,45
+1610-ILXTU,0,Two year,DSL,52
+1611-GYLQS,0,Month-to-month,No,31
+1612-RPMQX,1,Month-to-month,Fiber optic,17
+1613-KNEJU,1,Month-to-month,Fiber optic,1
+1614-QFOVD,0,Two year,DSL,48
+1615-BKRIV,1,Month-to-month,Fiber optic,10
+1616-WNJBV,0,Month-to-month,Fiber optic,43
+1617-XLNTS,0,One year,DSL,54
+1618-DRYTM,0,Two year,DSL,23
+1619-NGRGI,1,Month-to-month,Fiber optic,19
+1620-GIJCS,0,Month-to-month,Fiber optic,62
+1621-LYERE,0,One year,DSL,44
+1622-OMLRV,0,One year,Fiber optic,69
+1623-IWEHI,1,Month-to-month,DSL,13
+1624-YDKLU,0,One year,Fiber optic,39
+1625-MZTST,0,Month-to-month,Fiber optic,65
+1626-ELPFD,1,Month-to-month,DSL,9
+1627-DURHT,0,Two year,DSL,18
+1628-SVXWE,0,Two year,DSL,71
+1629-UKKQP,0,Month-to-month,No,12
+1630-KZECA,0,One year,Fiber optic,41
+1631-VKLQL,0,One year,Fiber optic,68
+1632-OBEYL,1,Two year,Fiber optic,3
+1633-EJIHH,0,One year,DSL,28
+1634-SCIMO,0,Month-to-month,DSL,50
+1635-WYHOA,1,Month-to-month,DSL,1
+1636-QDBRE,0,Two year,DSL,26
+1637-MCTTO,0,Month-to-month,Fiber optic,66
+1638-VLEDF,1,Month-to-month,No,8
+1639-FIFPD,0,Month-to-month,Fiber optic,69
+1640-QIRNX,0,One year,DSL,39
+1641-LHPRL,1,Month-to-month,DSL,29
+1642-OMHIX,0,Two year,DSL,59
+1643-RCZSB,0,Two year,No,14
+1644-SPXMN,0,One year,DSL,31
+1645-IIQVX,0,One year,No,26
+1646-UPNIT,0,Month-to-month,Fiber optic,59
+1647-IGWPJ,0,One year,Fiber optic,35
+1648-WZINM,1,Month-to-month,Fiber optic,13
+1649-SYOUP,1,Month-to-month,Fiber optic,22
+1650-XKKKZ,1,One year,Fiber optic,9
+1651-PDBNU,0,Two year,No,54
+1652-MOUNX,0,One year,No,29
+1653-QTUQB,0,One year,DSL,64
+1654-LDNDN,0,One year,Fiber optic,40
+1655-IADNC,1,Month-to-month,Fiber optic,10
+1656-WTSEU,0,Month-to-month,No,22
+1657-QKANU,0,Two year,Fiber optic,67
+1658-ABJNM,1,Month-to-month,Fiber optic,18
+1659-LGBAC,0,Month-to-month,No,49
+1660-RULCK,0,Two year,DSL,17
+1661-ZGMNI,0,One year,DSL,14
+1662-LMMSP,0,Month-to-month,Fiber optic,19
+1663-BAKXA,1,One year,Fiber optic,14
+1664-BRLFF,0,Month-to-month,No,24
+1665-RNQHN,1,Month-to-month,DSL,5
+1666-WIKEQ,1,Month-to-month,Fiber optic,10
+1667-AGSAZ,1,Month-to-month,Fiber optic,6
+1668-KKNQL,0,Two year,No,38
+1669-WZFSH,0,Two year,No,40
+1670-ZGHSU,1,Month-to-month,Fiber optic,10
+1671-DOIPO,0,One year,DSL,48
+1672-ZYRRX,0,Two year,No,63
+1673-ESUDW,1,Month-to-month,No,28
+1674-SJMMX,0,One year,Fiber optic,43
+1675-ZUQCX,1,One year,Fiber optic,4
+1676-DEBYM,1,One year,Fiber optic,21
+1677-GCKSZ,0,Month-to-month,Fiber optic,17
+1678-OPVXH,0,One year,Fiber optic,50
+1679-ZNYDC,1,Month-to-month,No,28
+1680-WREXC,0,One year,Fiber optic,12
+1681-RFBUW,1,Month-to-month,No,8
+1682-CCPAT,1,Month-to-month,Fiber optic,23
+1683-XTFER,1,Month-to-month,Fiber optic,13
+1684-BNLTF,0,One year,DSL,63
+1685-TSGJB,0,One year,DSL,68
+1686-LGCOO,0,Month-to-month,DSL,50
+1687-CECRI,0,Month-to-month,No,49
+1688-BEZGR,0,Month-to-month,No,44
+1689-MEHAT,0,Two year,DSL,36
+1690-IMDVF,0,Two year,DSL,39
+1691-OWSPX,1,Month-to-month,DSL,18
+1692-EZOKG,1,Month-to-month,Fiber optic,27
+1693-TZRAM,0,One year,Fiber optic,61
+1694-TKUSB,0,Two year,DSL,58
+1695-OEMJU,0,Two year,Fiber optic,32
+1696-WLNQR,0,Month-to-month,DSL,42
+1697-QUZVD,0,Month-to-month,Fiber optic,24
+1698-MLNNS,1,Month-to-month,Fiber optic,24
+1699-KGLWI,1,Month-to-month,DSL,13
+1700-AZFPU,0,Month-to-month,DSL,15
+1701-HIHDD,1,One year,DSL,7
+1702-ELNAW,1,Month-to-month,Fiber optic,14
+1703-RBVAO,0,Month-to-month,No,31
+1704-MNYYH,0,Two year,DSL,27
+1705-PYSXL,0,One year,DSL,24
+1706-HNVYR,1,Month-to-month,Fiber optic,18
+1707-SNIKM,0,Two year,Fiber optic,55
+1708-VOUAT,0,Two year,No,65
+1709-NZMMD,1,Month-to-month,Fiber optic,16
+1710-USWCF,0,One year,Fiber optic,26
+1711-WBNKY,1,One year,Fiber optic,7
+1712-WXHPS,0,One year,Fiber optic,31
+1713-ZAZJD,1,Two year,Fiber optic,8
+1714-QUDBX,1,Month-to-month,Fiber optic,19
+1715-YEXXZ,0,Month-to-month,DSL,36
+1716-FPZXP,1,One year,DSL,20
+1717-FCGBF,0,Two year,DSL,34
+1718-BTPNV,0,Two year,DSL,49
+1719-KKFLE,0,Month-to-month,No,59
+1720-PZNHR,1,Month-to-month,Fiber optic,15
+1721-VMGSE,0,Two year,Fiber optic,39
+1722-ZIJSA,0,Month-to-month,No,69
+1723-FDKOE,0,Month-to-month,Fiber optic,70
+1724-IUYAQ,0,Two year,DSL,71
+1725-ANWUG,0,Two year,Fiber optic,12
+1726-GUVHA,0,Two year,No,62
+1727-LQLYV,0,Two year,DSL,65
+1728-UAWTK,1,Month-to-month,Fiber optic,7
+1729-PVXOB,0,Two year,Fiber optic,56
+1730-QRBVF,0,Month-to-month,No,33
+1731-XOIBA,1,Two year,Fiber optic,21
+1732-TJVFX,0,Two year,DSL,46
+1733-YCQYI,1,Month-to-month,Fiber optic,7
+1734-BWMAV,0,Two year,DSL,33
+1735-RBGAY,1,Month-to-month,Fiber optic,3
+1736-AUNPV,1,Two year,Fiber optic,2
+1737-XDADR,1,Month-to-month,Fiber optic,7
+1738-OCGNS,0,Two year,DSL,22
+1739-IYZTL,0,Two year,Fiber optic,63
+1740-WSNLV,1,Month-to-month,Fiber optic,29
+1741-OEZBS,0,Two year,Fiber optic,68
+1742-RPBMX,0,One year,DSL,14
+1743-GRWYN,0,Two year,Fiber optic,25
+1744-ISMQT,1,Month-to-month,No,5
+1745-SGTOY,0,Two year,No,44
+1746-RXZZT,0,Month-to-month,Fiber optic,53
+1747-PDKMU,1,Month-to-month,Fiber optic,15
+1748-PLDSL,0,Two year,No,12
+1749-AHWDK,0,Two year,No,49
+1750-NCEYP,0,Two year,DSL,42
+1751-FELSS,0,Month-to-month,No,42
+1752-FSXFA,0,One year,No,34
+1753-YNUIH,1,Month-to-month,No,2
+1754-FFMCV,1,Month-to-month,Fiber optic,7
+1755-NXNHN,0,Month-to-month,Fiber optic,22
+1756-EVSDP,0,One year,Fiber optic,14
+1757-NFDTG,0,Month-to-month,Fiber optic,22
+1758-NGQBJ,1,Month-to-month,DSL,10
+1759-OLPEL,1,One year,Fiber optic,4
+1760-TIEWU,1,Month-to-month,Fiber optic,23
+1761-RUUTN,0,Month-to-month,No,39
+1762-APHUM,0,Two year,DSL,47
+1763-XPOXM,0,Two year,Fiber optic,60
+1764-JJWTE,0,Two year,DSL,61
+1765-MJQBS,0,One year,Fiber optic,38
+1766-TFDQG,0,One year,Fiber optic,47
+1767-YUYNY,1,Month-to-month,Fiber optic,21
+1768-AHARN,0,One year,Fiber optic,68
+1769-HHQEN,0,One year,Fiber optic,57
+1770-PGFJP,1,Month-to-month,Fiber optic,26
+1771-GJOEO,0,Two year,DSL,65
+1772-DDGHA,1,Two year,DSL,7
+1773-ZIUXU,0,Month-to-month,Fiber optic,57
+1774-VCJTO,1,One year,No,16
+1775-AOUVJ,0,Month-to-month,Fiber optic,60
+1776-GIHJH,0,Month-to-month,DSL,18
+1777-LBHID,0,Two year,DSL,24
+1778-WRXOC,0,One year,Fiber optic,59
+1779-XLRJM,0,Two year,Fiber optic,19
+1780-MHOTA,0,Month-to-month,No,12
+1781-DVOZP,0,Two year,DSL,27
+1782-QXRIN,1,One year,Fiber optic,9
+1783-GIRDR,0,One year,Fiber optic,19
+1784-PIBSV,0,Two year,DSL,21
+1785-SKQKJ,0,Month-to-month,Fiber optic,32
+1786-IFZRE,1,One year,No,26
+1787-WDPEJ,0,Two year,DSL,44
+1788-RZZXG,0,Two year,DSL,59
+1789-CXYHA,1,Month-to-month,Fiber optic,6
+1790-QBBYM,0,One year,No,13
+1791-CRJNX,1,Month-to-month,Fiber optic,23
+1792-GQVLZ,0,Two year,DSL,21
+1793-LLWQW,0,Month-to-month,DSL,33
+1794-USGKW,0,Month-to-month,DSL,32
+1795-QHIUE,1,Month-to-month,Fiber optic,9
+1796-CTHTN,0,One year,Fiber optic,27
+1797-ZNWWF,0,One year,DSL,65
+1798-ZTCAH,0,Two year,DSL,34
+1799-AJZMA,0,Two year,DSL,60
+1800-MFWCU,0,One year,Fiber optic,69
+1801-LARLU,0,One year,DSL,42
+1802-QULAD,0,One year,Fiber optic,18
+1803-LKUKW,0,Two year,Fiber optic,54
+1804-EKTDI,0,One year,Fiber optic,37
+1805-TPUNW,0,One year,DSL,32
+1806-WZDPC,0,Two year,No,39
+1807-FHQLW,0,Two year,Fiber optic,29
+1808-HQTZG,0,Two year,DSL,28
+1809-TCOKY,0,Month-to-month,Fiber optic,71
+1810-UYWKT,0,Two year,Fiber optic,28
+1811-AOBSZ,0,One year,DSL,39
+1812-RVGZO,0,Month-to-month,DSL,54
+1813-RUQIP,1,Month-to-month,Fiber optic,22
+1814-RWMNN,0,Two year,DSL,49
+1815-CCARK,1,Month-to-month,Fiber optic,18
+1816-WSDCJ,0,Two year,DSL,60
+1817-XBEAK,1,Month-to-month,Fiber optic,23
+1818-ZRMDJ,0,Month-to-month,DSL,36
+1819-NHSZF,0,One year,DSL,12
+1820-GDSMH,0,One year,No,48
+1821-FBMRG,1,Month-to-month,Fiber optic,8
+1822-AMRIG,0,Two year,No,65
+1823-ETWUN,0,Two year,Fiber optic,22
+1824-SKAJS,0,Month-to-month,Fiber optic,63
+1825-QZZGA,0,One year,DSL,32
+1826-HWVCE,0,Month-to-month,DSL,67
+1827-ORZTF,0,Two year,No,23
+1828-AQOXO,0,Month-to-month,Fiber optic,28
+1829-NHCWV,1,Two year,Fiber optic,27
+1830-ESJLW,0,Two year,Fiber optic,71
+1831-VEHVX,0,Two year,Fiber optic,56
+1832-CVMPB,1,Month-to-month,Fiber optic,28
+1833-RRRUY,0,One year,Fiber optic,45
+1834-WTZRR,0,Two year,Fiber optic,59
+1835-OTBNL,0,One year,No,49
+1836-XBQEW,0,Month-to-month,DSL,52
+1837-WGWMZ,0,Two year,DSL,62
+1838-SAFKF,0,One year,Fiber optic,70
+1839-DZWLF,1,One year,Fiber optic,3
+1840-EXIAK,0,Month-to-month,No,38
+1841-LQIXQ,0,One year,Fiber optic,51
+1842-ZJQJS,0,One year,DSL,56
+1843-TIYWX,0,Month-to-month,DSL,71
+1844-FSCCZ,1,Month-to-month,Fiber optic,19
+1845-DWLHB,0,One year,DSL,69
+1846-RSMVI,0,Two year,Fiber optic,55
+1847-OHPDM,0,Two year,No,69
+1848-OOLQN,0,Month-to-month,DSL,57
+1849-HFQYT,0,Month-to-month,DSL,65
+1850-QXXNC,1,Month-to-month,Fiber optic,9
+1851-QQHWW,0,Two year,DSL,71
+1852-IMFEG,1,Month-to-month,Fiber optic,6
+1853-JHDLQ,0,Month-to-month,DSL,59
+1854-INHSQ,1,Month-to-month,Fiber optic,17
+1855-YBWIB,1,Month-to-month,Fiber optic,19
+1856-REEZF,1,Month-to-month,Fiber optic,27
+1857-OFDAA,0,One year,Fiber optic,44
+1858-MLBJH,0,One year,Fiber optic,54
+1859-OZRXE,0,One year,Fiber optic,16
+1860-FTIWM,0,Month-to-month,Fiber optic,62
+1861-FVOUL,0,One year,DSL,36
+1862-DRDRK,1,Month-to-month,DSL,8
+1863-UWKWC,1,Month-to-month,DSL,20
+1864-CZOLE,0,Two year,No,47
+1865-HRVXK,0,Two year,DSL,47
+1866-LECLP,1,Month-to-month,Fiber optic,22
+1867-CKQVY,1,Month-to-month,DSL,3
+1868-IKWSH,0,Two year,Fiber optic,50
+1869-RELHZ,0,Month-to-month,DSL,62
+1870-AWHAR,1,Month-to-month,Fiber optic,12
+1871-RDACK,0,One year,DSL,35
+1872-DSCUW,0,Month-to-month,No,50
+1873-SYYBI,1,Month-to-month,Fiber optic,29
+1874-TITUZ,1,Month-to-month,DSL,23
+1875-IJAHH,1,Two year,Fiber optic,19
+1876-LKWUS,1,Month-to-month,DSL,18
+1877-AMSGL,0,One year,No,41
+1878-SUWLK,0,Month-to-month,No,33
+1879-JRKKE,0,Two year,DSL,57
+1880-MGNXU,0,Month-to-month,DSL,55
+1881-MZZLT,0,One year,DSL,24
+1882-IWJGD,0,Month-to-month,DSL,44
+1883-VHVCN,0,Two year,Fiber optic,50
+1884-LLEBJ,1,Month-to-month,Fiber optic,27
+1885-MUMGG,0,One year,DSL,34
+1886-PLXLO,0,Month-to-month,No,26
+1887-BFWIK,0,Month-to-month,Fiber optic,36
+1888-PBNJD,0,Month-to-month,Fiber optic,26
+1889-KLEOT,1,One year,Fiber optic,13
+1890-GZPUB,0,Month-to-month,No,23
+1891-TISUG,0,Two year,Fiber optic,34
+1892-GBPUK,1,Month-to-month,No,28
+1893-EIKXD,0,One year,DSL,34
+1894-IQGXX,0,Two year,No,20
+1895-JTTRE,0,Month-to-month,Fiber optic,60
+1896-BJDHQ,0,Two year,No,37
+1897-PFAFL,0,Month-to-month,Fiber optic,47
+1898-UJHOB,0,Two year,Fiber optic,43
+1899-FANLP,0,One year,Fiber optic,42
+1900-QKWXC,0,Month-to-month,No,38
+1901-XFGNA,0,Two year,DSL,57
+1902-JFMVY,0,Month-to-month,DSL,63
+1903-FOMKQ,1,Month-to-month,No,29
+1904-ZKBXY,0,Two year,Fiber optic,38
+1905-INWNM,0,One year,Fiber optic,32
+1906-XVNEL,0,Two year,Fiber optic,16
+1907-RHNRC,0,One year,Fiber optic,38
+1908-OTFOS,0,One year,Fiber optic,71
+1909-BQGKQ,1,Month-to-month,Fiber optic,1
+1910-AALYA,1,One year,Fiber optic,27
+1911-UBMLM,0,Two year,DSL,57
+1912-CTHUR,0,Month-to-month,Fiber optic,51
+1913-OIQZY,1,One year,Fiber optic,3
+1914-XFPKZ,0,Month-to-month,DSL,57
+1915-YWEIS,0,Month-to-month,DSL,17
+1916-TJDDR,0,One year,DSL,19
+1917-LMVAT,0,Two year,Fiber optic,23
+1918-HYYNI,0,Two year,Fiber optic,57
+1919-GEZEL,0,Two year,DSL,37
+1920-MRVOT,1,Month-to-month,Fiber optic,29
+1921-OLEFL,0,One year,DSL,14
+1922-BIMMV,0,Month-to-month,Fiber optic,41
+1923-ZSCKS,0,Two year,Fiber optic,35
+1924-PLLKP,0,One year,DSL,22
+1925-ENFRW,0,One year,DSL,13
+1926-NKYRL,0,Month-to-month,No,57
+1927-AAFGS,0,Two year,Fiber optic,58
+1928-NZOXO,0,Two year,DSL,26
+1929-JSLHM,0,Two year,Fiber optic,41
+1930-RJSZK,0,Month-to-month,Fiber optic,27
+1931-HKVEZ,0,Two year,DSL,36
+1932-KVUUX,0,Month-to-month,Fiber optic,18
+1933-EPCHB,1,Month-to-month,DSL,15
+1934-RPTEI,1,Month-to-month,DSL,15
+1935-RVXBK,0,Month-to-month,No,66
+1936-AVDVE,0,One year,DSL,29
+1937-AWLLQ,0,Month-to-month,DSL,64
+1938-HRLHK,0,One year,DSL,43
+1939-AHPDD,0,Two year,Fiber optic,23
+1940-RLDTU,0,Two year,Fiber optic,31
+1941-AFJTB,0,Two year,No,60
+1942-UIDWC,0,One year,DSL,58
+1943-DYNMR,0,Month-to-month,Fiber optic,55
+1944-QPAOH,0,Two year,Fiber optic,25
+1945-UNDXH,1,Month-to-month,Fiber optic,23
+1946-HYUWR,1,One year,Fiber optic,27
+1947-XCPHK,0,Month-to-month,No,14
+1948-GFLXQ,1,Month-to-month,Fiber optic,12
+1949-JLNGN,0,One year,Fiber optic,16
+1950-SGPSN,1,Month-to-month,No,18
+1951-HOUFO,1,Month-to-month,Fiber optic,13
+1952-RIKXJ,0,One year,No,26
+1953-PDYPT,1,Two year,Fiber optic,21
+1954-PJISW,1,Month-to-month,DSL,14
+1955-DVVCC,1,Month-to-month,Fiber optic,28
+1956-SVKQZ,1,Month-to-month,Fiber optic,7
+1957-IFZHM,0,One year,Fiber optic,59
+1958-LNGRR,0,Month-to-month,DSL,27
+1959-FMBFZ,1,Month-to-month,DSL,27
+1960-NQXSU,0,One year,DSL,65
+1961-SMQHX,0,Month-to-month,Fiber optic,52
+1962-EWWDS,0,Month-to-month,Fiber optic,43
+1963-ZOIWN,0,One year,DSL,24
+1964-DGRLF,0,One year,No,26
+1965-UDFMB,0,Two year,DSL,47
+1966-KXYWI,0,Month-to-month,DSL,39
+1967-BVJTD,0,Two year,DSL,14
+1968-RPXCK,1,Month-to-month,Fiber optic,5
+1969-ZKRES,0,One year,DSL,37
+1970-HOWRM,0,Two year,Fiber optic,22
+1971-EIWFR,0,One year,Fiber optic,45
+1972-MISJH,1,Month-to-month,DSL,7
+1973-NTWQR,0,One year,No,29
+1974-UHGMQ,0,Two year,DSL,18
+1975-QDUJW,0,Two year,Fiber optic,42
+1976-SZQNE,0,Month-to-month,DSL,23
+1977-KWJBG,0,Two year,Fiber optic,49
+1978-PQZYN,1,Month-to-month,No,8
+1979-OUBPM,0,Month-to-month,DSL,66
+1980-UURRR,0,Two year,DSL,52
+1981-PFHTQ,1,Month-to-month,Fiber optic,16
+1982-GWZQF,0,One year,DSL,67
+1983-YGLWN,1,Month-to-month,No,23
+1984-GCJRS,0,One year,Fiber optic,27
+1985-FESEB,0,Two year,Fiber optic,42
+1986-MOGFG,1,Month-to-month,Fiber optic,17
+1987-IAAJA,0,Month-to-month,No,52
+1988-IPAQQ,0,One year,No,33
+1989-OQVBE,1,Two year,Fiber optic,13
+1990-IRWXP,0,One year,DSL,20
+1991-KKBMN,0,Month-to-month,DSL,34
+1992-FTVHX,0,Two year,DSL,60
+1993-CXTFQ,0,Two year,DSL,45
+1994-IUEGH,0,Two year,DSL,15
+1995-FIPQO,0,One year,DSL,67
+1996-EFXGC,1,Month-to-month,Fiber optic,23
+1997-LAIWG,0,One year,DSL,35
+1998-SMJRP,0,Two year,DSL,61
+1999-IFXEY,1,Month-to-month,Fiber optic,5
+2000-MZJOP,0,Two year,Fiber optic,49

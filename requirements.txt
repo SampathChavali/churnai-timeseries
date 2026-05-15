@@ -1,0 +1,17 @@
+# Pinned for Streamlit Community Cloud builds.
+# torch on Linux x86_64 will resolve to the CPU-only wheel automatically.
+
+streamlit>=1.36.0
+torch>=2.2.0
+numpy>=1.24.0,<2.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+plotly>=5.18.0
+joblib>=1.3.0
+scipy>=1.11.0
+tqdm>=4.66.0
+
+# matplotlib + seaborn are only used by the local paper/EDA scripts, but the
+# dashboard imports `seaborn` indirectly via some chart helpers; keep them.
+matplotlib>=3.7.0
+seaborn>=0.12.0
