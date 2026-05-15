@@ -11,7 +11,6 @@ dist/
 .venv/
 venv/
 env/
-.python-version
 
 # --- OS / IDE ---
 .DS_Store
