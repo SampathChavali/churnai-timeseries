@@ -707,6 +707,11 @@ def page_home() -> None:
             unsafe_allow_html=True,
         )
         if st.button("OPEN THE CHATBOT", key="open_chat_btn"):
+            # NOTE: the top nav widget owns `nav_radio` in session state.
+            # After st.rerun() Streamlit pulls the radio's value from its own
+            # widget state, ignoring the `index` argument — so we must update
+            # `nav_radio` directly, not just our convenience `page` alias.
+            st.session_state.nav_radio = "ASK THE DATA"
             st.session_state.page = "ASK THE DATA"
             st.rerun()
     with box_r:
